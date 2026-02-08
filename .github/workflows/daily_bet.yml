@@ -1,14 +1,22 @@
 name: Daily AI Predictions
 on:
   schedule:
-    - cron: '0 6 * * *' # Runs at 6:00 AM daily
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This gives the bot permission to save the data
     steps:
       - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install requests
       - name: Run AI
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
