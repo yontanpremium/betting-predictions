@@ -1,0 +1,23 @@
+name: Daily AI Predictions
+on:
+  schedule:
+    - cron: '0 6 * * *' # Runs at 6:00 AM daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run AI
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: python run_ai_model.py
+      - name: Push results
+        run: |
+          git config --global user.name 'AI-Bot'
+          git config --global user.email 'bot@github.com'
+          git add predictions.json
+          git commit -m "Daily Update" || exit 0
+          git push
+          
