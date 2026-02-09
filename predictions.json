@@ -1,62 +1,38 @@
 [
     {
-        "match": "Utrecht vs Feyenoord",
+        "match": "Atalanta vs Cremonese",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-08"
+        "date": "2026-02-09"
     },
     {
-        "match": "Bologna vs Parma",
+        "match": "Famalic\u00e3o vs AVS",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-08"
+        "date": "2026-02-09"
     },
     {
-        "match": "Swansea vs Sheffield Wed",
+        "match": "Roma vs Cagliari",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-08"
+        "date": "2026-02-09"
     },
     {
-        "match": "Alav\u00e9s vs Getafe",
+        "match": "Villarreal vs Espanyol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-08"
+        "date": "2026-02-09"
     },
     {
-        "match": "Go Ahead vs Telstar",
+        "match": "Sheffield Utd vs Middlesbrough",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-08"
+        "date": "2026-02-09"
     },
     {
-        "match": "AZ vs Ajax",
+        "match": "Porto vs Sporting CP",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-08"
-    },
-    {
-        "match": "Nice vs Monaco",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-08"
-    },
-    {
-        "match": "Lecce vs Udinese",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-08"
-    },
-    {
-        "match": "Brighton Hove vs Crystal Palace",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-08"
-    },
-    {
-        "match": "1. FC K\u00f6ln vs RB Leipzig",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-08"
+        "date": "2026-02-09"
     }
 ]
