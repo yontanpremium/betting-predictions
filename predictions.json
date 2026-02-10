@@ -1,38 +1,44 @@
 [
     {
-        "match": "Atalanta vs Cremonese",
+        "match": "Chelsea vs Leeds United",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
     },
     {
-        "match": "Famalic\u00e3o vs AVS",
+        "match": "Tottenham vs Newcastle",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
     },
     {
-        "match": "Roma vs Cagliari",
+        "match": "Everton vs Bournemouth",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
     },
     {
-        "match": "Villarreal vs Espanyol",
+        "match": "Leicester City vs Southampton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
     },
     {
-        "match": "Sheffield Utd vs Middlesbrough",
+        "match": "Oxford United vs Norwich",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
     },
     {
-        "match": "Porto vs Sporting CP",
+        "match": "Birmingham vs West Brom",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-09"
+        "date": "2026-02-10"
+    },
+    {
+        "match": "West Ham vs Man United",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-10"
     }
 ]
