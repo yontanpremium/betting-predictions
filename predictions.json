@@ -1,62 +1,44 @@
 [
     {
-        "match": "T\u00e1chira vs The Strongest",
+        "match": "Vasco da Gama vs Bahia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-11"
+        "date": "2026-02-12"
     },
     {
-        "match": "Vit\u00f3ria vs Flamengo",
+        "match": "S\u00e3o Paulo vs Gr\u00eamio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-11"
+        "date": "2026-02-12"
     },
     {
-        "match": "Go Ahead vs Heerenveen",
+        "match": "Alianza Lima vs 2 de Mayo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-11"
+        "date": "2026-02-12"
     },
     {
-        "match": "Aston Villa vs Brighton Hove",
+        "match": "Brentford vs Arsenal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-11"
+        "date": "2026-02-12"
     },
     {
-        "match": "Man City vs Fulham",
+        "match": "Paranaense vs Santos",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-11"
+        "date": "2026-02-12"
     },
     {
-        "match": "Crystal Palace vs Burnley",
+        "match": "Fluminense vs Botafogo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-11"
+        "date": "2026-02-12"
     },
     {
-        "match": "Nottingham vs Wolverhampton",
+        "match": "Corinthians vs Bragantino",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-11"
-    },
-    {
-        "match": "Charlton vs Stoke",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-11"
-    },
-    {
-        "match": "NEC vs Utrecht",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-11"
-    },
-    {
-        "match": "Sunderland vs Liverpool",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-11"
+        "date": "2026-02-12"
     }
 ]
