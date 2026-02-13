@@ -1,44 +1,62 @@
 [
     {
-        "match": "Vasco da Gama vs Bahia",
+        "match": "Universidad Catolica vs Juventud",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-12"
+        "date": "2026-02-13"
     },
     {
-        "match": "S\u00e3o Paulo vs Gr\u00eamio",
+        "match": "Internacional vs Palmeiras",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-12"
+        "date": "2026-02-13"
     },
     {
-        "match": "Alianza Lima vs 2 de Mayo",
+        "match": "Stade Rennais vs PSG",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-12"
+        "date": "2026-02-13"
     },
     {
-        "match": "Brentford vs Arsenal",
+        "match": "Santa Clara vs SL Benfica",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-12"
+        "date": "2026-02-13"
     },
     {
-        "match": "Paranaense vs Santos",
+        "match": "Volendam vs PSV",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-12"
+        "date": "2026-02-13"
     },
     {
-        "match": "Fluminense vs Botafogo",
+        "match": "Dortmund vs Mainz",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-12"
+        "date": "2026-02-13"
     },
     {
-        "match": "Corinthians vs Bragantino",
+        "match": "AC Pisa vs Milan",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-12"
+        "date": "2026-02-13"
+    },
+    {
+        "match": "Elche vs Osasuna",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-13"
+    },
+    {
+        "match": "Monaco vs Nantes",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-13"
+    },
+    {
+        "match": "Tondela vs Alverca",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-13"
     }
 ]
