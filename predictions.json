@@ -1,62 +1,26 @@
 [
     {
-        "match": "Feyenoord vs Go Ahead",
+        "match": "Cagliari vs Lecce",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-15"
+        "date": "2026-02-16"
     },
     {
-        "match": "Udinese vs Sassuolo",
+        "match": "Coventry City vs Middlesbrough",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-15"
+        "date": "2026-02-16"
     },
     {
-        "match": "Real Oviedo vs Athletic",
+        "match": "Girona vs Bar\u00e7a",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-15"
+        "date": "2026-02-16"
     },
     {
-        "match": "Telstar vs Twente",
+        "match": "Rio Ave vs Moreirense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-15"
-    },
-    {
-        "match": "Heerenveen vs Zwolle",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-15"
-    },
-    {
-        "match": "Cremonese vs Genoa",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-15"
-    },
-    {
-        "match": "Parma vs Verona",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-15"
-    },
-    {
-        "match": "Le Havre vs Toulouse",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-15"
-    },
-    {
-        "match": "Augsburg vs Heidenheim",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-15"
-    },
-    {
-        "match": "Rayo Vallecano vs Atleti",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-15"
+        "date": "2026-02-16"
     }
 ]
