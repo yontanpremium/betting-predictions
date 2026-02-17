@@ -1,26 +1,44 @@
 [
     {
-        "match": "Cagliari vs Lecce",
+        "match": "Galatasaray vs Juventus",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
     },
     {
-        "match": "Coventry City vs Middlesbrough",
+        "match": "Sparta vs NEC",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
     },
     {
-        "match": "Girona vs Bar\u00e7a",
+        "match": "Bristol City vs Wrexham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
     },
     {
-        "match": "Rio Ave vs Moreirense",
+        "match": "Monaco vs PSG",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-16"
+        "date": "2026-02-17"
+    },
+    {
+        "match": "Dortmund vs Atalanta",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-17"
+    },
+    {
+        "match": "SL Benfica vs Real Madrid",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-17"
+    },
+    {
+        "match": "Carabobo vs Huachipato",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-17"
     }
 ]
