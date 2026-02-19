@@ -1,62 +1,26 @@
 [
     {
-        "match": "Liverpool vs Independiente",
+        "match": "Barcelona SC vs Argentinos Jrs",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-18"
+        "date": "2026-02-19"
     },
     {
-        "match": "2 de Mayo vs Cristal",
+        "match": "Nac. Potos\u00ed vs Botafogo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-18"
+        "date": "2026-02-19"
     },
     {
-        "match": "Qaraba\u011f A\u011fdam vs Newcastle",
+        "match": "Juventud vs Guaran\u00ed",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-18"
+        "date": "2026-02-19"
     },
     {
-        "match": "Levante vs Villarreal",
+        "match": "Paranaense vs Corinthians",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-18"
-    },
-    {
-        "match": "Milan vs Como 1907",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-18"
-    },
-    {
-        "match": "Olympiakos vs Leverkusen",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-18"
-    },
-    {
-        "match": "Wolverhampton vs Arsenal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-18"
-    },
-    {
-        "match": "Bod\u00f8/Glimt vs Inter",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-18"
-    },
-    {
-        "match": "Club Brugge vs Atleti",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-18"
-    },
-    {
-        "match": "O'Higgins vs Bahia",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-18"
+        "date": "2026-02-19"
     }
 ]
