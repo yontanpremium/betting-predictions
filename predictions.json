@@ -1,26 +1,50 @@
 [
     {
-        "match": "Barcelona SC vs Argentinos Jrs",
+        "match": "T\u00e1chira vs Tolima",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-19"
+        "date": "2026-02-20"
     },
     {
-        "match": "Nac. Potos\u00ed vs Botafogo",
+        "match": "Sittard vs Excelsior",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-19"
+        "date": "2026-02-20"
     },
     {
-        "match": "Juventud vs Guaran\u00ed",
+        "match": "Mainz vs HSV",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-19"
+        "date": "2026-02-20"
     },
     {
-        "match": "Paranaense vs Corinthians",
+        "match": "Sassuolo vs Verona",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-19"
+        "date": "2026-02-20"
+    },
+    {
+        "match": "Brest vs Marseille",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-20"
+    },
+    {
+        "match": "Athletic vs Elche",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-20"
+    },
+    {
+        "match": "Blackburn vs Preston NE",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-20"
+    },
+    {
+        "match": "Amadora vs Tondela",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-20"
     }
 ]
