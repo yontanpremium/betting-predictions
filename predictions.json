@@ -1,50 +1,62 @@
 [
     {
-        "match": "T\u00e1chira vs Tolima",
+        "match": "Stoke vs Leicester City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-20"
+        "date": "2026-02-21"
     },
     {
-        "match": "Sittard vs Excelsior",
+        "match": "Hull City vs QPR",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-20"
+        "date": "2026-02-21"
     },
     {
-        "match": "Mainz vs HSV",
+        "match": "West Brom vs Coventry City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-20"
+        "date": "2026-02-21"
     },
     {
-        "match": "Sassuolo vs Verona",
+        "match": "Swansea vs Bristol City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-20"
+        "date": "2026-02-21"
     },
     {
-        "match": "Brest vs Marseille",
+        "match": "Real Sociedad vs Real Oviedo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-20"
+        "date": "2026-02-21"
     },
     {
-        "match": "Athletic vs Elche",
+        "match": "Juventus vs Como 1907",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-20"
+        "date": "2026-02-21"
     },
     {
-        "match": "Blackburn vs Preston NE",
+        "match": "1. FC K\u00f6ln vs Hoffenheim",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-20"
+        "date": "2026-02-21"
     },
     {
-        "match": "Amadora vs Tondela",
+        "match": "Union Berlin vs Leverkusen",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-20"
+        "date": "2026-02-21"
+    },
+    {
+        "match": "Wolfsburg vs Augsburg",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-21"
+    },
+    {
+        "match": "Bayern vs Frankfurt",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-21"
     }
 ]
