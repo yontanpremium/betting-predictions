@@ -1,62 +1,32 @@
 [
     {
-        "match": "Twente vs Groningen",
+        "match": "Fiorentina vs AC Pisa",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-22"
+        "date": "2026-02-23"
     },
     {
-        "match": "Genoa vs Torino",
+        "match": "Bologna vs Udinese",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-22"
+        "date": "2026-02-23"
     },
     {
-        "match": "Sheffield Utd vs Sheffield Wed",
+        "match": "Everton vs Man United",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-22"
+        "date": "2026-02-23"
     },
     {
-        "match": "Getafe vs Sevilla FC",
+        "match": "Alav\u00e9s vs Girona",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-22"
+        "date": "2026-02-23"
     },
     {
-        "match": "Go Ahead vs Heracles",
+        "match": "Famalic\u00e3o vs Casa Pia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-22"
-    },
-    {
-        "match": "Utrecht vs Zwolle",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-22"
-    },
-    {
-        "match": "Nottingham vs Liverpool",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-22"
-    },
-    {
-        "match": "Sunderland vs Fulham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-22"
-    },
-    {
-        "match": "Auxerre vs Stade Rennais",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-22"
-    },
-    {
-        "match": "Atalanta vs Napoli",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-22"
+        "date": "2026-02-23"
     }
 ]
