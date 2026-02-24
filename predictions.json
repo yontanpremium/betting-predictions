@@ -1,32 +1,62 @@
 [
     {
-        "match": "Fiorentina vs AC Pisa",
+        "match": "Atleti vs Club Brugge",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-23"
+        "date": "2026-02-24"
     },
     {
-        "match": "Bologna vs Udinese",
+        "match": "West Brom vs Charlton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-23"
+        "date": "2026-02-24"
     },
     {
-        "match": "Everton vs Man United",
+        "match": "Middlesbrough vs Leicester City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-23"
+        "date": "2026-02-24"
     },
     {
-        "match": "Alav\u00e9s vs Girona",
+        "match": "Blackburn vs Bristol City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-23"
+        "date": "2026-02-24"
     },
     {
-        "match": "Famalic\u00e3o vs Casa Pia",
+        "match": "Swansea vs Preston NE",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-23"
+        "date": "2026-02-24"
+    },
+    {
+        "match": "Hull City vs Derby County",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-24"
+    },
+    {
+        "match": "Watford vs Ipswich Town",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-24"
+    },
+    {
+        "match": "Wrexham vs Portsmouth",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-24"
+    },
+    {
+        "match": "Leverkusen vs Olympiakos",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-24"
+    },
+    {
+        "match": "Newcastle vs Qaraba\u011f A\u011fdam",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-02-24"
     }
 ]
