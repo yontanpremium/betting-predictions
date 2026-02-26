@@ -1,62 +1,38 @@
 [
     {
-        "match": "Flamengo vs Mirassol",
+        "match": "Botafogo vs Nac. Potos\u00ed",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
     },
     {
-        "match": "Botafogo vs Vit\u00f3ria",
+        "match": "Palmeiras vs Fluminense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
     },
     {
-        "match": "Bahia vs Chapecoense",
+        "match": "Argentinos Jrs vs Barcelona SC",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
     },
     {
-        "match": "Cristal vs 2 de Mayo",
+        "match": "Gr\u00eamio vs Mineiro",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
     },
     {
-        "match": "Independiente vs Liverpool",
+        "match": "Guaran\u00ed vs Juventud",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
     },
     {
-        "match": "Atalanta vs Dortmund",
+        "match": "Santos vs Vasco da Gama",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-02-25"
-    },
-    {
-        "match": "Norwich vs Sheffield Wed",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-25"
-    },
-    {
-        "match": "Millwall vs Birmingham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-25"
-    },
-    {
-        "match": "Sheffield Utd vs Coventry City",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-25"
-    },
-    {
-        "match": "PSG vs Monaco",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-02-25"
+        "date": "2026-02-26"
     }
 ]
