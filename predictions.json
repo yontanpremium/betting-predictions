@@ -1,62 +1,32 @@
 [
     {
-        "match": "Zwolle vs Ajax",
+        "match": "AC Pisa vs Bologna",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-01"
+        "date": "2026-03-02"
     },
     {
-        "match": "Cremonese vs Milan",
+        "match": "Udinese vs Fiorentina",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-01"
+        "date": "2026-03-02"
     },
     {
-        "match": "Elche vs Espanyol",
+        "match": "Real Madrid vs Getafe",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-01"
+        "date": "2026-03-02"
     },
     {
-        "match": "Twente vs Feyenoord",
+        "match": "Birmingham vs Middlesbrough",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-01"
+        "date": "2026-03-02"
     },
     {
-        "match": "Volendam vs Groningen",
+        "match": "Gil Vicente vs SL Benfica",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-01"
-    },
-    {
-        "match": "Brighton Hove vs Nottingham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-01"
-    },
-    {
-        "match": "Fulham vs Tottenham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-01"
-    },
-    {
-        "match": "Paris FC vs Nice",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-01"
-    },
-    {
-        "match": "Sassuolo vs Atalanta",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-01"
-    },
-    {
-        "match": "Man United vs Crystal Palace",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-01"
+        "date": "2026-03-02"
     }
 ]
