@@ -1,32 +1,32 @@
 [
     {
-        "match": "AC Pisa vs Bologna",
+        "match": "Everton vs Burnley",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-02"
+        "date": "2026-03-03"
     },
     {
-        "match": "Udinese vs Fiorentina",
+        "match": "Bournemouth vs Brentford",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-02"
+        "date": "2026-03-03"
     },
     {
-        "match": "Real Madrid vs Getafe",
+        "match": "Leeds United vs Sunderland",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-02"
+        "date": "2026-03-03"
     },
     {
-        "match": "Birmingham vs Middlesbrough",
+        "match": "Ipswich Town vs Hull City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-02"
+        "date": "2026-03-03"
     },
     {
-        "match": "Gil Vicente vs SL Benfica",
+        "match": "Wolverhampton vs Liverpool",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-02"
+        "date": "2026-03-03"
     }
 ]
