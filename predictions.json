@@ -1,32 +1,56 @@
 [
     {
-        "match": "Everton vs Burnley",
+        "match": "Barcelona SC vs Botafogo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
     },
     {
-        "match": "Bournemouth vs Brentford",
+        "match": "Rayo Vallecano vs Real Oviedo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
     },
     {
-        "match": "Leeds United vs Sunderland",
+        "match": "Aston Villa vs Chelsea",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
     },
     {
-        "match": "Ipswich Town vs Hull City",
+        "match": "Fulham vs West Ham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
     },
     {
-        "match": "Wolverhampton vs Liverpool",
+        "match": "Brighton Hove vs Arsenal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-03"
+        "date": "2026-03-04"
+    },
+    {
+        "match": "HSV vs Leverkusen",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-04"
+    },
+    {
+        "match": "Man City vs Nottingham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-04"
+    },
+    {
+        "match": "Newcastle vs Man United",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-04"
+    },
+    {
+        "match": "Carabobo vs Cristal",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-04"
     }
 ]
