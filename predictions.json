@@ -1,56 +1,14 @@
 [
     {
-        "match": "Barcelona SC vs Botafogo",
+        "match": "O'Higgins vs Tolima",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-04"
+        "date": "2026-03-05"
     },
     {
-        "match": "Rayo Vallecano vs Real Oviedo",
+        "match": "Tottenham vs Crystal Palace",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-04"
-    },
-    {
-        "match": "Aston Villa vs Chelsea",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-04"
-    },
-    {
-        "match": "Fulham vs West Ham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-04"
-    },
-    {
-        "match": "Brighton Hove vs Arsenal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-04"
-    },
-    {
-        "match": "HSV vs Leverkusen",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-04"
-    },
-    {
-        "match": "Man City vs Nottingham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-04"
-    },
-    {
-        "match": "Newcastle vs Man United",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-04"
-    },
-    {
-        "match": "Carabobo vs Cristal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-04"
+        "date": "2026-03-05"
     }
 ]
