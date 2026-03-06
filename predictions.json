@@ -1,14 +1,50 @@
 [
     {
-        "match": "O'Higgins vs Tolima",
+        "match": "CA Juventud vs Independiente",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-05"
+        "date": "2026-03-06"
     },
     {
-        "match": "Tottenham vs Crystal Palace",
+        "match": "Heracles vs Utrecht",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-05"
+        "date": "2026-03-06"
+    },
+    {
+        "match": "Bayern vs M'gladbach",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-06"
+    },
+    {
+        "match": "Napoli vs Torino",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-06"
+    },
+    {
+        "match": "PSG vs Monaco",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-06"
+    },
+    {
+        "match": "Celta vs Real Madrid",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-06"
+    },
+    {
+        "match": "Preston NE vs Oxford United",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-06"
+    },
+    {
+        "match": "Famalic\u00e3o vs Arouca",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-06"
     }
 ]
