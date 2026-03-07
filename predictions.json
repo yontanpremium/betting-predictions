@@ -1,50 +1,62 @@
 [
     {
-        "match": "CA Juventud vs Independiente",
+        "match": "Blackburn vs Portsmouth",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
     },
     {
-        "match": "Heracles vs Utrecht",
+        "match": "Hull City vs Millwall",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
     },
     {
-        "match": "Bayern vs M'gladbach",
+        "match": "Osasuna vs Mallorca",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
     },
     {
-        "match": "Napoli vs Torino",
+        "match": "Cagliari vs Como 1907",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
     },
     {
-        "match": "PSG vs Monaco",
+        "match": "Mainz vs Stuttgart",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
     },
     {
-        "match": "Celta vs Real Madrid",
+        "match": "Heidenheim vs Hoffenheim",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
     },
     {
-        "match": "Preston NE vs Oxford United",
+        "match": "Freiburg vs Leverkusen",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
     },
     {
-        "match": "Famalic\u00e3o vs Arouca",
+        "match": "RB Leipzig vs Augsburg",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-06"
+        "date": "2026-03-07"
+    },
+    {
+        "match": "Wolfsburg vs HSV",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-07"
+    },
+    {
+        "match": "Charlton vs Birmingham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-07"
     }
 ]
