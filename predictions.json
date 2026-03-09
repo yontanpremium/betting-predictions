@@ -1,62 +1,20 @@
 [
     {
-        "match": "Sparta vs Zwolle",
+        "match": "Lazio vs Sassuolo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-08"
+        "date": "2026-03-09"
     },
     {
-        "match": "Lecce vs Cremonese",
+        "match": "Espanyol vs Real Oviedo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-08"
+        "date": "2026-03-09"
     },
     {
-        "match": "Villarreal vs Elche",
+        "match": "Tondela vs Rio Ave",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-08"
-    },
-    {
-        "match": "Sittard vs Telstar",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-08"
-    },
-    {
-        "match": "Go Ahead vs Twente",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-08"
-    },
-    {
-        "match": "Bologna vs Verona",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-08"
-    },
-    {
-        "match": "RC Lens vs FC Metz",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-08"
-    },
-    {
-        "match": "Fiorentina vs Parma",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-08"
-    },
-    {
-        "match": "St. Pauli vs Frankfurt",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-08"
-    },
-    {
-        "match": "Getafe vs Real Betis",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-08"
+        "date": "2026-03-09"
     }
 ]
