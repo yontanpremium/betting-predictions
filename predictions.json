@@ -1,62 +1,38 @@
 [
     {
-        "match": "Botafogo vs Barcelona SC",
+        "match": "Flamengo vs Cruzeiro",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-11"
+        "date": "2026-03-12"
     },
     {
-        "match": "Mirassol vs Santos",
+        "match": "Tolima vs O'Higgins",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-11"
+        "date": "2026-03-12"
     },
     {
-        "match": "Leverkusen vs Arsenal",
+        "match": "Corinthians vs Coritiba",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-11"
+        "date": "2026-03-12"
     },
     {
-        "match": "Middlesbrough vs Charlton",
+        "match": "Clube do Remo vs Fluminense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-11"
+        "date": "2026-03-12"
     },
     {
-        "match": "West Brom vs Southampton",
+        "match": "Vasco da Gama vs Palmeiras",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-11"
+        "date": "2026-03-12"
     },
     {
-        "match": "Birmingham vs QPR",
+        "match": "S\u00e3o Paulo vs Chapecoense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-11"
-    },
-    {
-        "match": "Oxford United vs Blackburn",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-11"
-    },
-    {
-        "match": "Norwich vs Sheffield Utd",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-11"
-    },
-    {
-        "match": "Coventry City vs Preston NE",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-11"
-    },
-    {
-        "match": "Real Madrid vs Man City",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-11"
+        "date": "2026-03-12"
     }
 ]
