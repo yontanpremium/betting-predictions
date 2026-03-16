@@ -1,62 +1,32 @@
 [
     {
-        "match": "Sporting CP vs Tondela",
+        "match": "Cremonese vs Fiorentina",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-15"
+        "date": "2026-03-16"
     },
     {
-        "match": "PSG vs Nantes",
+        "match": "Brentford vs Wolverhampton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-15"
+        "date": "2026-03-16"
     },
     {
-        "match": "Twente vs Utrecht",
+        "match": "Portsmouth vs Derby County",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-15"
+        "date": "2026-03-16"
     },
     {
-        "match": "Verona vs Genoa",
+        "match": "Rayo Vallecano vs Levante",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-15"
+        "date": "2026-03-16"
     },
     {
-        "match": "Mallorca vs Espanyol",
+        "match": "Chapecoense vs Gr\u00eamio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-15"
-    },
-    {
-        "match": "Feyenoord vs Excelsior",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-15"
-    },
-    {
-        "match": "AZ vs Heracles",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-15"
-    },
-    {
-        "match": "Sassuolo vs Bologna",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-15"
-    },
-    {
-        "match": "Crystal Palace vs Leeds United",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-15"
-    },
-    {
-        "match": "Man United vs Aston Villa",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-15"
+        "date": "2026-03-16"
     }
 ]
