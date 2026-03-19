@@ -1,62 +1,26 @@
 [
     {
-        "match": "Bar\u00e7a vs Newcastle",
+        "match": "Vasco da Gama vs Fluminense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-18"
+        "date": "2026-03-19"
     },
     {
-        "match": "Southampton vs Norwich",
+        "match": "Santos vs Internacional",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-18"
+        "date": "2026-03-19"
     },
     {
-        "match": "Liverpool vs Galatasaray",
+        "match": "Gr\u00eamio vs Vit\u00f3ria",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-18"
+        "date": "2026-03-19"
     },
     {
-        "match": "Tottenham vs Atleti",
+        "match": "Flamengo vs Clube do Remo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-18"
-    },
-    {
-        "match": "Bayern vs Atalanta",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-18"
-    },
-    {
-        "match": "Palmeiras vs Botafogo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-18"
-    },
-    {
-        "match": "Bahia vs Bragantino",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-18"
-    },
-    {
-        "match": "Paranaense vs Cruzeiro",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-18"
-    },
-    {
-        "match": "Mineiro vs S\u00e3o Paulo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-18"
-    },
-    {
-        "match": "Mirassol vs Coritiba",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-03-18"
+        "date": "2026-03-19"
     }
 ]
