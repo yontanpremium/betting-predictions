@@ -1,26 +1,62 @@
 [
     {
-        "match": "Vasco da Gama vs Fluminense",
+        "match": "Chapecoense vs Corinthians",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
     },
     {
-        "match": "Santos vs Internacional",
+        "match": "Cagliari vs Napoli",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
     },
     {
-        "match": "Gr\u00eamio vs Vit\u00f3ria",
+        "match": "Heracles vs Excelsior",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
     },
     {
-        "match": "Flamengo vs Clube do Remo",
+        "match": "RB Leipzig vs Hoffenheim",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-03-19"
+        "date": "2026-03-20"
+    },
+    {
+        "match": "Genoa vs Udinese",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-20"
+    },
+    {
+        "match": "RC Lens vs Angers SCO",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-20"
+    },
+    {
+        "match": "Villarreal vs Real Sociedad",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-20"
+    },
+    {
+        "match": "Preston NE vs Stoke",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-20"
+    },
+    {
+        "match": "Bournemouth vs Man United",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-20"
+    },
+    {
+        "match": "Amadora vs Casa Pia",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-03-20"
     }
 ]
