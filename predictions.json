@@ -1,8 +1,32 @@
 [
     {
-        "match": "No games today",
-        "prediction": "N/A",
-        "confidence": "0%",
-        "date": "N/A"
+        "match": "Botafogo vs Mirassol",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-01"
+    },
+    {
+        "match": "Internacional vs S\u00e3o Paulo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-01"
+    },
+    {
+        "match": "Cruzeiro vs Vit\u00f3ria",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-01"
+    },
+    {
+        "match": "Bahia vs Paranaense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-01"
+    },
+    {
+        "match": "Coritiba vs Vasco da Gama",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-01"
     }
 ]
