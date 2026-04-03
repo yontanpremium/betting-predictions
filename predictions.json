@@ -1,20 +1,62 @@
 [
     {
-        "match": "Fluminense vs Corinthians",
+        "match": "Bragantino vs Flamengo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-02"
+        "date": "2026-04-03"
     },
     {
-        "match": "Chapecoense vs Mineiro",
+        "match": "Palmeiras vs Gr\u00eamio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-02"
+        "date": "2026-04-03"
     },
     {
-        "match": "Santos vs Clube do Remo",
+        "match": "Middlesbrough vs Millwall",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-02"
+        "date": "2026-04-03"
+    },
+    {
+        "match": "Sheffield Utd vs Swansea",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-03"
+    },
+    {
+        "match": "Birmingham vs Blackburn",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-03"
+    },
+    {
+        "match": "West Brom vs Wrexham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-03"
+    },
+    {
+        "match": "Oxford United vs Hull City",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-03"
+    },
+    {
+        "match": "Leicester City vs Preston NE",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-03"
+    },
+    {
+        "match": "Stoke vs Sheffield Wed",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-03"
+    },
+    {
+        "match": "Norwich vs Portsmouth",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-03"
     }
 ]
