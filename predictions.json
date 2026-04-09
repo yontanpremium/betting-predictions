@@ -1,56 +1,44 @@
 [
     {
-        "match": "Barcelona SC vs Cruzeiro",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-08"
-    },
-    {
-        "match": "Always Ready vs LDU de Quito",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-08"
-    },
-    {
-        "match": "Univ Cat\u00f3lica vs Boca Juniors",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-08"
-    },
-    {
-        "match": "Tolima vs Universitario",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-08"
-    },
-    {
-        "match": "PSG vs Liverpool",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-08"
-    },
-    {
-        "match": "Bar\u00e7a vs Atleti",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-08"
-    },
-    {
-        "match": "Mirassol vs Lan\u00fas",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-08"
-    },
-    {
-        "match": "Coquimbo Unido vs Club Nacional",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-08"
-    },
-    {
         "match": "Independiente vs Estudiantes LP",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-08"
+        "date": "2026-04-09"
+    },
+    {
+        "match": "Cusco vs Flamengo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-09"
+    },
+    {
+        "match": "Junior vs Palmeiras",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-09"
+    },
+    {
+        "match": "Cristal vs Cerro Porte\u00f1o",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-09"
+    },
+    {
+        "match": "None vs Libertad",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-09"
+    },
+    {
+        "match": "Rosario vs Independiente",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-09"
+    },
+    {
+        "match": "Platense vs Corinthians",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-09"
     }
 ]
