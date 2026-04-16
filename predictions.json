@@ -1,50 +1,32 @@
 [
     {
-        "match": "Club Bol\u00edvar vs La Guaira",
+        "match": "Corinthians vs Santa Fe",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-15"
+        "date": "2026-04-16"
     },
     {
-        "match": "Boca Juniors vs Barcelona SC",
+        "match": "Fluminense vs Rivadavia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-15"
+        "date": "2026-04-16"
     },
     {
-        "match": "LDU de Quito vs Mirassol",
+        "match": "Independiente vs None",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-15"
+        "date": "2026-04-16"
     },
     {
-        "match": "Universitario vs Coquimbo Unido",
+        "match": "Lan\u00fas vs Always Ready",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-15"
+        "date": "2026-04-16"
     },
     {
-        "match": "Bayern vs Real Madrid",
+        "match": "Palmeiras vs Cristal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-15"
-    },
-    {
-        "match": "Arsenal vs Sporting CP",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-15"
-    },
-    {
-        "match": "Libertad vs Rosario",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-15"
-    },
-    {
-        "match": "Cruzeiro vs Univ Cat\u00f3lica",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-15"
+        "date": "2026-04-16"
     }
 ]
