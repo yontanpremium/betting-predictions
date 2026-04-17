@@ -1,32 +1,50 @@
 [
     {
-        "match": "Corinthians vs Santa Fe",
+        "match": "Pe\u00f1arol vs Platense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-16"
+        "date": "2026-04-17"
     },
     {
-        "match": "Fluminense vs Rivadavia",
+        "match": "Flamengo vs Independiente",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-16"
+        "date": "2026-04-17"
     },
     {
-        "match": "Independiente vs None",
+        "match": "Sassuolo vs Como 1907",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-16"
+        "date": "2026-04-17"
     },
     {
-        "match": "Lan\u00fas vs Always Ready",
+        "match": "St. Pauli vs 1. FC K\u00f6ln",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-16"
+        "date": "2026-04-17"
     },
     {
-        "match": "Palmeiras vs Cristal",
+        "match": "RC Lens vs Toulouse",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-16"
+        "date": "2026-04-17"
+    },
+    {
+        "match": "Inter vs Cagliari",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-17"
+    },
+    {
+        "match": "Blackburn vs Coventry City",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-17"
+    },
+    {
+        "match": "Rio Ave vs AVS",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-17"
     }
 ]
