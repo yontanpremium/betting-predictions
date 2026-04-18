@@ -1,50 +1,62 @@
 [
     {
-        "match": "Pe\u00f1arol vs Platense",
+        "match": "Portsmouth vs Leicester City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
     },
     {
-        "match": "Flamengo vs Independiente",
+        "match": "Brentford vs Fulham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
     },
     {
-        "match": "Sassuolo vs Como 1907",
+        "match": "Millwall vs QPR",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
     },
     {
-        "match": "St. Pauli vs 1. FC K\u00f6ln",
+        "match": "Derby County vs Oxford United",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
     },
     {
-        "match": "RC Lens vs Toulouse",
+        "match": "Udinese vs Parma",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
     },
     {
-        "match": "Inter vs Cagliari",
+        "match": "Hoffenheim vs Dortmund",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
     },
     {
-        "match": "Blackburn vs Coventry City",
+        "match": "Union Berlin vs Wolfsburg",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
     },
     {
-        "match": "Rio Ave vs AVS",
+        "match": "Leverkusen vs Augsburg",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-17"
+        "date": "2026-04-18"
+    },
+    {
+        "match": "Bremen vs HSV",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-18"
+    },
+    {
+        "match": "Hull City vs Birmingham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-18"
     }
 ]
