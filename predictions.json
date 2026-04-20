@@ -1,62 +1,20 @@
 [
     {
-        "match": "Cremonese vs Torino",
+        "match": "Lecce vs Fiorentina",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-19"
+        "date": "2026-04-20"
     },
     {
-        "match": "Ipswich Town vs Middlesbrough",
+        "match": "Crystal Palace vs West Ham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-19"
+        "date": "2026-04-20"
     },
     {
-        "match": "Everton vs Liverpool",
+        "match": "Moreirense vs Estoril Praia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-19"
-    },
-    {
-        "match": "Nottingham vs Burnley",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-19"
-    },
-    {
-        "match": "Aston Villa vs Sunderland",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-19"
-    },
-    {
-        "match": "Monaco vs Auxerre",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-19"
-    },
-    {
-        "match": "Verona vs Milan",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-19"
-    },
-    {
-        "match": "Freiburg vs Heidenheim",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-19"
-    },
-    {
-        "match": "Internacional vs Mirassol",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-19"
-    },
-    {
-        "match": "Arouca vs Amadora",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-19"
+        "date": "2026-04-20"
     }
 ]
