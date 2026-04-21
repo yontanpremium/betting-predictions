@@ -1,20 +1,62 @@
 [
     {
-        "match": "Lecce vs Fiorentina",
+        "match": "Athletic vs Osasuna",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-20"
+        "date": "2026-04-21"
     },
     {
-        "match": "Crystal Palace vs West Ham",
+        "match": "Mallorca vs Valencia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-20"
+        "date": "2026-04-21"
     },
     {
-        "match": "Moreirense vs Estoril Praia",
+        "match": "Coventry City vs Portsmouth",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-20"
+        "date": "2026-04-21"
+    },
+    {
+        "match": "West Brom vs Watford",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-21"
+    },
+    {
+        "match": "Oxford United vs Wrexham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-21"
+    },
+    {
+        "match": "Southampton vs Bristol City",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-21"
+    },
+    {
+        "match": "Stoke vs Millwall",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-21"
+    },
+    {
+        "match": "Norwich vs Derby County",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-21"
+    },
+    {
+        "match": "Leicester City vs Hull City",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-21"
+    },
+    {
+        "match": "QPR vs Swansea",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-21"
     }
 ]
