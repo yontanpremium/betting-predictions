@@ -1,62 +1,38 @@
 [
     {
-        "match": "Elche vs Atleti",
+        "match": "Go Ahead vs AZ",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-22"
+        "date": "2026-04-23"
     },
     {
-        "match": "PSG vs Nantes",
+        "match": "Levante vs Sevilla FC",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-22"
+        "date": "2026-04-23"
     },
     {
-        "match": "Real Sociedad vs Getafe",
+        "match": "Rayo Vallecano vs Espanyol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-22"
+        "date": "2026-04-23"
     },
     {
-        "match": "Telstar vs Sparta",
+        "match": "Casa Pia vs Braga",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-22"
+        "date": "2026-04-23"
     },
     {
-        "match": "Charlton vs Ipswich Town",
+        "match": "PSV vs Zwolle",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-22"
+        "date": "2026-04-23"
     },
     {
-        "match": "Middlesbrough vs Sheffield Wed",
+        "match": "Real Oviedo vs Villarreal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-22"
-    },
-    {
-        "match": "Sheffield Utd vs Blackburn",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-22"
-    },
-    {
-        "match": "Birmingham vs Preston NE",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-22"
-    },
-    {
-        "match": "Bournemouth vs Leeds United",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-22"
-    },
-    {
-        "match": "Burnley vs Man City",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-22"
+        "date": "2026-04-23"
     }
 ]
