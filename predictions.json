@@ -1,38 +1,44 @@
 [
     {
-        "match": "Go Ahead vs AZ",
+        "match": "RB Leipzig vs Union Berlin",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-23"
+        "date": "2026-04-24"
     },
     {
-        "match": "Levante vs Sevilla FC",
+        "match": "Napoli vs Cremonese",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-23"
+        "date": "2026-04-24"
     },
     {
-        "match": "Rayo Vallecano vs Espanyol",
+        "match": "Brest vs RC Lens",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-23"
+        "date": "2026-04-24"
     },
     {
-        "match": "Casa Pia vs Braga",
+        "match": "Leicester City vs Millwall",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-23"
+        "date": "2026-04-24"
     },
     {
-        "match": "PSV vs Zwolle",
+        "match": "Real Betis vs Real Madrid",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-23"
+        "date": "2026-04-24"
     },
     {
-        "match": "Real Oviedo vs Villarreal",
+        "match": "Sunderland vs Nottingham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-23"
+        "date": "2026-04-24"
+    },
+    {
+        "match": "Alverca vs Arouca",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-24"
     }
 ]
