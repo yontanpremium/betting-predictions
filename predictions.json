@@ -1,44 +1,62 @@
 [
     {
-        "match": "RB Leipzig vs Union Berlin",
+        "match": "Charlton vs Hull City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-24"
+        "date": "2026-04-25"
     },
     {
-        "match": "Napoli vs Cremonese",
+        "match": "Fulham vs Aston Villa",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-24"
+        "date": "2026-04-25"
     },
     {
-        "match": "Brest vs RC Lens",
+        "match": "Middlesbrough vs Watford",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-24"
+        "date": "2026-04-25"
     },
     {
-        "match": "Leicester City vs Millwall",
+        "match": "West Brom vs Ipswich Town",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-24"
+        "date": "2026-04-25"
     },
     {
-        "match": "Real Betis vs Real Madrid",
+        "match": "Alav\u00e9s vs Mallorca",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-24"
+        "date": "2026-04-25"
     },
     {
-        "match": "Sunderland vs Nottingham",
+        "match": "Olympique Lyon vs Auxerre",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-24"
+        "date": "2026-04-25"
     },
     {
-        "match": "Alverca vs Arouca",
+        "match": "Parma vs AC Pisa",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-24"
+        "date": "2026-04-25"
+    },
+    {
+        "match": "Wolfsburg vs M'gladbach",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-25"
+    },
+    {
+        "match": "1. FC K\u00f6ln vs Leverkusen",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-25"
+    },
+    {
+        "match": "Augsburg vs Frankfurt",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-25"
     }
 ]
