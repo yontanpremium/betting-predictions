@@ -1,62 +1,32 @@
 [
     {
-        "match": "S\u00e3o Paulo vs Mirassol",
+        "match": "Cagliari vs Atalanta",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-26"
+        "date": "2026-04-27"
     },
     {
-        "match": "Excelsior vs Utrecht",
+        "match": "Lazio vs Udinese",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-26"
+        "date": "2026-04-27"
     },
     {
-        "match": "Fiorentina vs Sassuolo",
+        "match": "Man United vs Brentford",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-26"
+        "date": "2026-04-27"
     },
     {
-        "match": "Coventry City vs Wrexham",
+        "match": "Espanyol vs Levante",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-26"
+        "date": "2026-04-27"
     },
     {
-        "match": "Rayo Vallecano vs Real Sociedad",
+        "match": "Gil Vicente vs Casa Pia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-26"
-    },
-    {
-        "match": "Heracles vs Volendam",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-26"
-    },
-    {
-        "match": "Genoa vs Como 1907",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-26"
-    },
-    {
-        "match": "Lorient vs Strasbourg",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-26"
-    },
-    {
-        "match": "Stuttgart vs Bremen",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-26"
-    },
-    {
-        "match": "Real Oviedo vs Elche",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-26"
+        "date": "2026-04-27"
     }
 ]
