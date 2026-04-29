@@ -1,32 +1,56 @@
 [
     {
-        "match": "Southampton vs Ipswich Town",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-28"
-    },
-    {
-        "match": "PSG vs Bayern",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-28"
-    },
-    {
-        "match": "Lan\u00fas vs LDU de Quito",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-28"
-    },
-    {
-        "match": "Libertad vs Independiente",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-28"
-    },
-    {
         "match": "None vs Rosario",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-28"
+        "date": "2026-04-29"
+    },
+    {
+        "match": "Cruzeiro vs Boca Juniors",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-29"
+    },
+    {
+        "match": "Tolima vs Coquimbo Unido",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-29"
+    },
+    {
+        "match": "Cristal vs Junior",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-29"
+    },
+    {
+        "match": "Atleti vs Arsenal",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-29"
+    },
+    {
+        "match": "Sporting CP vs Tondela",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-29"
+    },
+    {
+        "match": "Mirassol vs Always Ready",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-29"
+    },
+    {
+        "match": "Platense vs Santa Fe",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-29"
+    },
+    {
+        "match": "Barcelona SC vs Univ Cat\u00f3lica",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-29"
     }
 ]
