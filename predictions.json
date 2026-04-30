@@ -1,56 +1,44 @@
 [
     {
-        "match": "None vs Rosario",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-29"
-    },
-    {
-        "match": "Cruzeiro vs Boca Juniors",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-29"
-    },
-    {
-        "match": "Tolima vs Coquimbo Unido",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-29"
-    },
-    {
-        "match": "Cristal vs Junior",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-29"
-    },
-    {
-        "match": "Atleti vs Arsenal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-29"
-    },
-    {
-        "match": "Sporting CP vs Tondela",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-29"
-    },
-    {
-        "match": "Mirassol vs Always Ready",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-29"
-    },
-    {
-        "match": "Platense vs Santa Fe",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-29"
-    },
-    {
         "match": "Barcelona SC vs Univ Cat\u00f3lica",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-29"
+        "date": "2026-04-30"
+    },
+    {
+        "match": "Cerro Porte\u00f1o vs Palmeiras",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-30"
+    },
+    {
+        "match": "Estudiantes LP vs Flamengo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-30"
+    },
+    {
+        "match": "Universitario vs Club Nacional",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-30"
+    },
+    {
+        "match": "Club Bol\u00edvar vs Fluminense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-30"
+    },
+    {
+        "match": "Rivadavia vs La Guaira",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-30"
+    },
+    {
+        "match": "Corinthians vs Pe\u00f1arol",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-04-30"
     }
 ]
