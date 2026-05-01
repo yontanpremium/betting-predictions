@@ -1,44 +1,32 @@
 [
     {
-        "match": "Barcelona SC vs Univ Cat\u00f3lica",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-30"
-    },
-    {
-        "match": "Cerro Porte\u00f1o vs Palmeiras",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-30"
-    },
-    {
-        "match": "Estudiantes LP vs Flamengo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-30"
-    },
-    {
-        "match": "Universitario vs Club Nacional",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-30"
-    },
-    {
-        "match": "Club Bol\u00edvar vs Fluminense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-30"
-    },
-    {
-        "match": "Rivadavia vs La Guaira",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-04-30"
-    },
-    {
         "match": "Corinthians vs Pe\u00f1arol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-04-30"
+        "date": "2026-05-01"
+    },
+    {
+        "match": "Independiente vs Cusco",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-01"
+    },
+    {
+        "match": "AC Pisa vs Lecce",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-01"
+    },
+    {
+        "match": "Leeds United vs Burnley",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-01"
+    },
+    {
+        "match": "Girona vs Mallorca",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-01"
     }
 ]
