@@ -1,62 +1,38 @@
 [
     {
-        "match": "Cruzeiro vs Mineiro",
+        "match": "Chelsea vs Nottingham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-03"
+        "date": "2026-05-04"
     },
     {
-        "match": "Volendam vs Heerenveen",
+        "match": "Cremonese vs Lazio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-03"
+        "date": "2026-05-04"
     },
     {
-        "match": "Bologna vs Cagliari",
+        "match": "Roma vs Fiorentina",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-03"
+        "date": "2026-05-04"
     },
     {
-        "match": "Celta vs Elche",
+        "match": "Everton vs Man City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-03"
+        "date": "2026-05-04"
     },
     {
-        "match": "Sittard vs Feyenoord",
+        "match": "Sevilla FC vs Real Sociedad",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-03"
+        "date": "2026-05-04"
     },
     {
-        "match": "Zwolle vs Heracles",
+        "match": "Sporting CP vs Vit\u00f3ria SC",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-03"
-    },
-    {
-        "match": "Bournemouth vs Crystal Palace",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-03"
-    },
-    {
-        "match": "Lille vs Le Havre",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-03"
-    },
-    {
-        "match": "Sassuolo vs Milan",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-03"
-    },
-    {
-        "match": "St. Pauli vs Mainz",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-03"
+        "date": "2026-05-04"
     }
 ]
