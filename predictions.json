@@ -1,38 +1,32 @@
 [
     {
-        "match": "Chelsea vs Nottingham",
+        "match": "Arsenal vs Atleti",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-04"
+        "date": "2026-05-05"
     },
     {
-        "match": "Cremonese vs Lazio",
+        "match": "Rosario vs Libertad",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-04"
+        "date": "2026-05-05"
     },
     {
-        "match": "Roma vs Fiorentina",
+        "match": "Cristal vs Palmeiras",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-04"
+        "date": "2026-05-05"
     },
     {
-        "match": "Everton vs Man City",
+        "match": "Barcelona SC vs Boca Juniors",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-04"
+        "date": "2026-05-05"
     },
     {
-        "match": "Sevilla FC vs Real Sociedad",
+        "match": "Universidad Central vs Independiente",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-04"
-    },
-    {
-        "match": "Sporting CP vs Vit\u00f3ria SC",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-04"
+        "date": "2026-05-05"
     }
 ]
