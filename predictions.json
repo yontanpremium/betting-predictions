@@ -1,38 +1,44 @@
 [
     {
-        "match": "Barcelona SC vs Boca Juniors",
+        "match": "Santa Fe vs Corinthians",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
     },
     {
-        "match": "None vs Independiente",
+        "match": "Rivadavia vs Fluminense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
     },
     {
-        "match": "Always Ready vs Lan\u00fas",
+        "match": "Univ Cat\u00f3lica vs Cruzeiro",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
     },
     {
-        "match": "None vs None",
+        "match": "Tolima vs Club Nacional",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
     },
     {
-        "match": "Cusco vs Estudiantes LP",
+        "match": "Platense vs Pe\u00f1arol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
     },
     {
-        "match": "La Guaira vs Club Bol\u00edvar",
+        "match": "Mirassol vs LDU de Quito",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-06"
+        "date": "2026-05-07"
+    },
+    {
+        "match": "Coquimbo Unido vs Universitario",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-07"
     }
 ]
