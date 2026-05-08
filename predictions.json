@@ -1,44 +1,50 @@
 [
     {
-        "match": "Santa Fe vs Corinthians",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-07"
-    },
-    {
-        "match": "Rivadavia vs Fluminense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-07"
-    },
-    {
-        "match": "Univ Cat\u00f3lica vs Cruzeiro",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-07"
-    },
-    {
-        "match": "Tolima vs Club Nacional",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-07"
-    },
-    {
-        "match": "Platense vs Pe\u00f1arol",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-07"
-    },
-    {
-        "match": "Mirassol vs LDU de Quito",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-07"
-    },
-    {
         "match": "Coquimbo Unido vs Universitario",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-07"
+        "date": "2026-05-08"
+    },
+    {
+        "match": "Independiente vs Flamengo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-08"
+    },
+    {
+        "match": "Junior vs Cerro Porte\u00f1o",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-08"
+    },
+    {
+        "match": "Dortmund vs Frankfurt",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-08"
+    },
+    {
+        "match": "RC Lens vs Nantes",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-08"
+    },
+    {
+        "match": "Torino vs Sassuolo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-08"
+    },
+    {
+        "match": "Levante vs Osasuna",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-08"
+    },
+    {
+        "match": "Hull City vs Millwall",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-08"
     }
 ]
