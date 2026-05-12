@@ -1,62 +1,26 @@
 [
     {
-        "match": "Napoli vs Bologna",
+        "match": "Celta vs Levante",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
     },
     {
-        "match": "Millwall vs Hull City",
+        "match": "Real Betis vs Elche",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
     },
     {
-        "match": "Rayo Vallecano vs Girona",
+        "match": "Southampton vs Middlesbrough",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
     },
     {
-        "match": "Tottenham vs Leeds United",
+        "match": "Osasuna vs Atleti",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-11"
-    },
-    {
-        "match": "Gil Vicente vs Arouca",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-11"
-    },
-    {
-        "match": "Amadora vs Famalic\u00e3o",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-11"
-    },
-    {
-        "match": "Santa Clara vs CD Nacional",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-11"
-    },
-    {
-        "match": "SL Benfica vs Braga",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-11"
-    },
-    {
-        "match": "Tondela vs Moreirense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-11"
-    },
-    {
-        "match": "Rio Ave vs Sporting CP",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-11"
+        "date": "2026-05-12"
     }
 ]
