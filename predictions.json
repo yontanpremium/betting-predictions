@@ -1,44 +1,20 @@
 [
     {
-        "match": "Villarreal vs Sevilla FC",
+        "match": "Valencia vs Rayo Vallecano",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-13"
+        "date": "2026-05-14"
     },
     {
-        "match": "Brest vs Strasbourg",
+        "match": "Girona vs Real Sociedad",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-13"
+        "date": "2026-05-14"
     },
     {
-        "match": "Espanyol vs Athletic",
+        "match": "Real Madrid vs Real Oviedo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-13"
-    },
-    {
-        "match": "RC Lens vs PSG",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-13"
-    },
-    {
-        "match": "Man City vs Crystal Palace",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-13"
-    },
-    {
-        "match": "Getafe vs Mallorca",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-13"
-    },
-    {
-        "match": "Alav\u00e9s vs Bar\u00e7a",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-13"
+        "date": "2026-05-14"
     }
 ]
