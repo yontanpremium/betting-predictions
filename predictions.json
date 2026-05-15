@@ -1,20 +1,8 @@
 [
     {
-        "match": "Valencia vs Rayo Vallecano",
+        "match": "Aston Villa vs Liverpool",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-14"
-    },
-    {
-        "match": "Girona vs Real Sociedad",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-14"
-    },
-    {
-        "match": "Real Madrid vs Real Oviedo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-14"
+        "date": "2026-05-15"
     }
 ]
