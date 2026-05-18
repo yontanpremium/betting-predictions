@@ -1,62 +1,8 @@
 [
     {
-        "match": "Palmeiras vs Cruzeiro",
+        "match": "Arsenal vs Burnley",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "AC Pisa vs Napoli",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "Genoa vs Milan",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "Roma vs Lazio",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "Como 1907 vs Parma",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "Juventus vs Fiorentina",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "Man United vs Nottingham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "Heracles vs Groningen",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "Zwolle vs Feyenoord",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
-    },
-    {
-        "match": "Utrecht vs Sittard",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-17"
+        "date": "2026-05-18"
     }
 ]
