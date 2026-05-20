@@ -1,44 +1,32 @@
 [
     {
-        "match": "Bournemouth vs Man City",
+        "match": "Always Ready vs Mirassol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-19"
-    },
-    {
-        "match": "Chelsea vs Tottenham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-19"
-    },
-    {
-        "match": "Fluminense vs Club Bol\u00edvar",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-19"
-    },
-    {
-        "match": "Rosario vs Universidad Central",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-19"
-    },
-    {
-        "match": "Coquimbo Unido vs Tolima",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-19"
+        "date": "2026-05-20"
     },
     {
         "match": "Santa Fe vs Platense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-19"
+        "date": "2026-05-20"
     },
     {
-        "match": "Always Ready vs Mirassol",
+        "match": "Boca Juniors vs Cruzeiro",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-19"
+        "date": "2026-05-20"
+    },
+    {
+        "match": "Independiente vs Libertad",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-20"
+    },
+    {
+        "match": "Club Nacional vs Universitario",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-20"
     }
 ]
