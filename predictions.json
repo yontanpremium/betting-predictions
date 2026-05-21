@@ -1,32 +1,38 @@
 [
     {
-        "match": "Always Ready vs Mirassol",
+        "match": "Flamengo vs Estudiantes LP",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-20"
+        "date": "2026-05-21"
     },
     {
-        "match": "Santa Fe vs Platense",
+        "match": "LDU de Quito vs Lan\u00fas",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-20"
+        "date": "2026-05-21"
     },
     {
-        "match": "Boca Juniors vs Cruzeiro",
+        "match": "Palmeiras vs Cerro Porte\u00f1o",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-20"
+        "date": "2026-05-21"
     },
     {
-        "match": "Independiente vs Libertad",
+        "match": "Junior vs Cristal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-20"
+        "date": "2026-05-21"
     },
     {
-        "match": "Club Nacional vs Universitario",
+        "match": "Cusco vs Independiente",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-20"
+        "date": "2026-05-21"
+    },
+    {
+        "match": "La Guaira vs Rivadavia",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-21"
     }
 ]
