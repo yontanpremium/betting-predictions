@@ -1,20 +1,62 @@
 [
     {
-        "match": "Univ Cat\u00f3lica vs Barcelona SC",
+        "match": "Hull City vs Southampton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-22"
+        "date": "2026-05-23"
     },
     {
-        "match": "Pe\u00f1arol vs Corinthians",
+        "match": "Bologna vs Inter",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-22"
+        "date": "2026-05-23"
     },
     {
-        "match": "Fiorentina vs Atalanta",
+        "match": "Lazio vs AC Pisa",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-22"
+        "date": "2026-05-23"
+    },
+    {
+        "match": "Valencia vs Bar\u00e7a",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-23"
+    },
+    {
+        "match": "Espanyol vs Real Sociedad",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-23"
+    },
+    {
+        "match": "Mallorca vs Real Oviedo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-23"
+    },
+    {
+        "match": "Real Betis vs Levante",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-23"
+    },
+    {
+        "match": "Celta vs Sevilla FC",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-23"
+    },
+    {
+        "match": "Girona vs Elche",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-23"
+    },
+    {
+        "match": "Getafe vs Osasuna",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-23"
     }
 ]
