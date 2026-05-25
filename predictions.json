@@ -1,62 +1,8 @@
 [
     {
-        "match": "Flamengo vs Palmeiras",
+        "match": "Coritiba vs Bahia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "Parma vs Sassuolo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "Nottingham vs Bournemouth",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "West Ham vs Leeds United",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "Liverpool vs Brentford",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "Sunderland vs Chelsea",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "Crystal Palace vs Arsenal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "Tottenham vs Everton",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "Fulham vs Newcastle",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
-    },
-    {
-        "match": "Man City vs Aston Villa",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-24"
+        "date": "2026-05-25"
     }
 ]
