@@ -1,8 +1,14 @@
 [
     {
-        "match": "Coritiba vs Bahia",
+        "match": "LDU de Quito vs Always Ready",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-25"
+        "date": "2026-05-26"
+    },
+    {
+        "match": "Lan\u00fas vs Mirassol",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-26"
     }
 ]
