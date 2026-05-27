@@ -1,14 +1,38 @@
 [
     {
-        "match": "LDU de Quito vs Always Ready",
+        "match": "Club Nacional vs Coquimbo Unido",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-26"
+        "date": "2026-05-27"
     },
     {
-        "match": "Lan\u00fas vs Mirassol",
+        "match": "Flamengo vs Cusco",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-26"
+        "date": "2026-05-27"
+    },
+    {
+        "match": "Estudiantes LP vs Independiente",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-27"
+    },
+    {
+        "match": "Universitario vs Tolima",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-27"
+    },
+    {
+        "match": "Independiente vs Rosario",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-27"
+    },
+    {
+        "match": "Libertad vs Universidad Central",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-27"
     }
 ]
