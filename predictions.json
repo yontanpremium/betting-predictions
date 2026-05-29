@@ -1,38 +1,14 @@
 [
     {
-        "match": "Club Bol\u00edvar vs Rivadavia",
+        "match": "Cruzeiro vs Barcelona SC",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-28"
+        "date": "2026-05-29"
     },
     {
-        "match": "Corinthians vs Platense",
+        "match": "Boca Juniors vs Univ Cat\u00f3lica",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-28"
-    },
-    {
-        "match": "Fluminense vs La Guaira",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-28"
-    },
-    {
-        "match": "Pe\u00f1arol vs Santa Fe",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-28"
-    },
-    {
-        "match": "Cerro Porte\u00f1o vs Cristal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-28"
-    },
-    {
-        "match": "Palmeiras vs Junior",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-05-28"
+        "date": "2026-05-29"
     }
 ]
