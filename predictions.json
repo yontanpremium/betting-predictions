@@ -1,14 +1,38 @@
 [
     {
-        "match": "Cruzeiro vs Barcelona SC",
+        "match": "PSG vs Arsenal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-29"
+        "date": "2026-05-30"
     },
     {
-        "match": "Boca Juniors vs Univ Cat\u00f3lica",
+        "match": "Paranaense vs Mirassol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-05-29"
+        "date": "2026-05-30"
+    },
+    {
+        "match": "Flamengo vs Coritiba",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-30"
+    },
+    {
+        "match": "Bahia vs Botafogo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-30"
+    },
+    {
+        "match": "Gr\u00eamio vs Corinthians",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-30"
+    },
+    {
+        "match": "Santos vs Vit\u00f3ria",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-05-30"
     }
 ]
