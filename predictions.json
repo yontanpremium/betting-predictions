@@ -1,8 +1,14 @@
 [
     {
-        "match": "Mexico vs South Africa",
+        "match": "Korea Republic vs Czechia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-11"
+        "date": "2026-06-12"
+    },
+    {
+        "match": "Canada vs Bosnia-H.",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-06-12"
     }
 ]
