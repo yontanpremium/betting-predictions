@@ -1,32 +1,26 @@
 [
     {
-        "match": "Haiti vs Scotland",
+        "match": "Sweden vs Tunisia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-14"
+        "date": "2026-06-15"
     },
     {
-        "match": "Australia vs Turkey",
+        "match": "Spain vs Cape Verde",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-14"
+        "date": "2026-06-15"
     },
     {
-        "match": "Germany vs Cura\u00e7ao",
+        "match": "Belgium vs Egypt",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-14"
+        "date": "2026-06-15"
     },
     {
-        "match": "Netherlands vs Japan",
+        "match": "Saudi Arabia vs Uruguay",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-14"
-    },
-    {
-        "match": "Ivory Coast vs Ecuador",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-06-14"
+        "date": "2026-06-15"
     }
 ]
