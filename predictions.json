@@ -1,32 +1,26 @@
 [
     {
-        "match": "Ecuador vs Cura\u00e7ao",
+        "match": "New Zealand vs Egypt",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-21"
+        "date": "2026-06-22"
     },
     {
-        "match": "Tunisia vs Japan",
+        "match": "Argentina vs Austria",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-21"
+        "date": "2026-06-22"
     },
     {
-        "match": "Spain vs Saudi Arabia",
+        "match": "France vs Iraq",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-21"
+        "date": "2026-06-22"
     },
     {
-        "match": "Belgium vs Iran",
+        "match": "Norway vs Senegal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-21"
-    },
-    {
-        "match": "Uruguay vs Cape Verde",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-06-21"
+        "date": "2026-06-22"
     }
 ]
