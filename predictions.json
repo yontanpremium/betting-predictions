@@ -1,32 +1,38 @@
 [
     {
-        "match": "Colombia vs Congo DR",
+        "match": "South Africa vs Korea Republic",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-24"
+        "date": "2026-06-25"
     },
     {
-        "match": "Bosnia-H. vs Qatar",
+        "match": "Czechia vs Mexico",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-24"
+        "date": "2026-06-25"
     },
     {
-        "match": "Switzerland vs Canada",
+        "match": "Cura\u00e7ao vs Ivory Coast",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-24"
+        "date": "2026-06-25"
     },
     {
-        "match": "Morocco vs Haiti",
+        "match": "Ecuador vs Germany",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-24"
+        "date": "2026-06-25"
     },
     {
-        "match": "Scotland vs Brazil",
+        "match": "Japan vs Sweden",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-24"
+        "date": "2026-06-25"
+    },
+    {
+        "match": "Tunisia vs Netherlands",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-06-25"
     }
 ]
