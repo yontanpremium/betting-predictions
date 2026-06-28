@@ -1,50 +1,20 @@
 [
     {
-        "match": "Cape Verde vs Saudi Arabia",
+        "match": "Algeria vs Austria",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-27"
+        "date": "2026-06-28"
     },
     {
-        "match": "Uruguay vs Spain",
+        "match": "Jordan vs Argentina",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-27"
+        "date": "2026-06-28"
     },
     {
-        "match": "Egypt vs Iran",
+        "match": "South Africa vs Canada",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-27"
-    },
-    {
-        "match": "New Zealand vs Belgium",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-06-27"
-    },
-    {
-        "match": "Croatia vs Ghana",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-06-27"
-    },
-    {
-        "match": "Panama vs England",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-06-27"
-    },
-    {
-        "match": "Congo DR vs Uzbekistan",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-06-27"
-    },
-    {
-        "match": "Colombia vs Portugal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-06-27"
+        "date": "2026-06-28"
     }
 ]
