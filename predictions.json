@@ -1,20 +1,14 @@
 [
     {
-        "match": "Algeria vs Austria",
+        "match": "Brazil vs Japan",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-28"
+        "date": "2026-06-29"
     },
     {
-        "match": "Jordan vs Argentina",
+        "match": "Germany vs Paraguay",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-28"
-    },
-    {
-        "match": "South Africa vs Canada",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-06-28"
+        "date": "2026-06-29"
     }
 ]
