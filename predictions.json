@@ -1,14 +1,20 @@
 [
     {
-        "match": "Brazil vs Japan",
+        "match": "Netherlands vs Morocco",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-29"
+        "date": "2026-06-30"
     },
     {
-        "match": "Germany vs Paraguay",
+        "match": "Ivory Coast vs Norway",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-29"
+        "date": "2026-06-30"
+    },
+    {
+        "match": "France vs Sweden",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-06-30"
     }
 ]
