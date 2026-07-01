@@ -1,20 +1,26 @@
 [
     {
-        "match": "Netherlands vs Morocco",
+        "match": "Mexico vs Ecuador",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-30"
+        "date": "2026-07-01"
     },
     {
-        "match": "Ivory Coast vs Norway",
+        "match": "England vs Congo DR",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-30"
+        "date": "2026-07-01"
     },
     {
-        "match": "France vs Sweden",
+        "match": "Belgium vs Senegal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-06-30"
+        "date": "2026-07-01"
+    },
+    {
+        "match": "USA vs Bosnia-H.",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-01"
     }
 ]
