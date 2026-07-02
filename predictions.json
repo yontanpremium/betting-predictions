@@ -1,26 +1,20 @@
 [
     {
-        "match": "Mexico vs Ecuador",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-01"
-    },
-    {
-        "match": "England vs Congo DR",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-01"
-    },
-    {
-        "match": "Belgium vs Senegal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-01"
-    },
-    {
         "match": "USA vs Bosnia-H.",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-01"
+        "date": "2026-07-02"
+    },
+    {
+        "match": "Spain vs Austria",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-02"
+    },
+    {
+        "match": "Portugal vs Croatia",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-02"
     }
 ]
