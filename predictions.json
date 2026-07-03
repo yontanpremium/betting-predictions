@@ -1,20 +1,20 @@
 [
     {
-        "match": "USA vs Bosnia-H.",
+        "match": "Switzerland vs Algeria",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-02"
+        "date": "2026-07-03"
     },
     {
-        "match": "Spain vs Austria",
+        "match": "Australia vs Egypt",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-02"
+        "date": "2026-07-03"
     },
     {
-        "match": "Portugal vs Croatia",
+        "match": "Argentina vs Cape Verde",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-02"
+        "date": "2026-07-03"
     }
 ]
