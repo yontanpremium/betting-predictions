@@ -1,20 +1,14 @@
 [
     {
-        "match": "Colombia vs Ghana",
+        "match": "Brazil vs Norway",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-04"
+        "date": "2026-07-05"
     },
     {
-        "match": "Canada vs Morocco",
+        "match": "Mexico vs England",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-04"
-    },
-    {
-        "match": "Paraguay vs France",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-04"
+        "date": "2026-07-05"
     }
 ]
