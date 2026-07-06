@@ -1,14 +1,20 @@
 [
     {
-        "match": "Brazil vs Norway",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-05"
-    },
-    {
         "match": "Mexico vs England",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-05"
+        "date": "2026-07-06"
+    },
+    {
+        "match": "Portugal vs Spain",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-06"
+    },
+    {
+        "match": "USA vs Belgium",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-06"
     }
 ]
