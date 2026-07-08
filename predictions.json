@@ -1,20 +1,8 @@
 [
     {
-        "match": "USA vs Belgium",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-07"
-    },
-    {
-        "match": "Argentina vs Egypt",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-07"
-    },
-    {
-        "match": "Switzerland vs Colombia",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-07"
+        "match": "No games today",
+        "prediction": "N/A",
+        "confidence": "0%",
+        "date": "N/A"
     }
 ]
