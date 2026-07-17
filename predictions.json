@@ -1,14 +1,20 @@
 [
     {
-        "match": "Botafogo vs Santos",
+        "match": "Bahia vs Chapecoense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-16"
+        "date": "2026-07-17"
     },
     {
-        "match": "Vit\u00f3ria vs Vasco da Gama",
+        "match": "Fluminense vs Bragantino",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-16"
+        "date": "2026-07-17"
+    },
+    {
+        "match": "Mirassol vs Gr\u00eamio",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-17"
     }
 ]
