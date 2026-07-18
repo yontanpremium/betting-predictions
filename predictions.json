@@ -1,20 +1,8 @@
 [
     {
-        "match": "Bahia vs Chapecoense",
+        "match": "France vs England",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-17"
-    },
-    {
-        "match": "Fluminense vs Bragantino",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-17"
-    },
-    {
-        "match": "Mirassol vs Gr\u00eamio",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-17"
+        "date": "2026-07-18"
     }
 ]
