@@ -1,32 +1,8 @@
 [
     {
-        "match": "S\u00e3o Paulo vs Paranaense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-23"
-    },
-    {
-        "match": "Chapecoense vs Flamengo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-23"
-    },
-    {
-        "match": "Internacional vs Cruzeiro",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-23"
-    },
-    {
-        "match": "Botafogo vs Vit\u00f3ria",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-23"
-    },
-    {
-        "match": "Corinthians vs Clube do Remo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-23"
+        "match": "No games today",
+        "prediction": "N/A",
+        "confidence": "0%",
+        "date": "N/A"
     }
 ]
