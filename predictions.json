@@ -1,8 +1,20 @@
 [
     {
-        "match": "No games today",
-        "prediction": "N/A",
-        "confidence": "0%",
-        "date": "N/A"
+        "match": "Paranaense vs Internacional",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-25"
+    },
+    {
+        "match": "Santos vs Chapecoense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-25"
+    },
+    {
+        "match": "Vasco da Gama vs Mirassol",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-25"
     }
 ]
