@@ -1,44 +1,8 @@
 [
     {
-        "match": "Bahia vs Corinthians",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-26"
-    },
-    {
-        "match": "Cruzeiro vs Botafogo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-26"
-    },
-    {
-        "match": "Gr\u00eamio vs Fluminense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-26"
-    },
-    {
-        "match": "Bragantino vs Coritiba",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-26"
-    },
-    {
-        "match": "Flamengo vs S\u00e3o Paulo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-26"
-    },
-    {
-        "match": "Clube do Remo vs Vit\u00f3ria",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-26"
-    },
-    {
-        "match": "Palmeiras vs Mineiro",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-26"
+        "match": "No games today",
+        "prediction": "N/A",
+        "confidence": "0%",
+        "date": "N/A"
     }
 ]
