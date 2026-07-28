@@ -1,8 +1,26 @@
 [
     {
-        "match": "No games today",
-        "prediction": "N/A",
-        "confidence": "0%",
-        "date": "N/A"
+        "match": "Mineiro vs Bragantino",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-28"
+    },
+    {
+        "match": "Chapecoense vs Vasco da Gama",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-28"
+    },
+    {
+        "match": "S\u00e3o Paulo vs Santos",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-28"
+    },
+    {
+        "match": "Botafogo vs Gr\u00eamio",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-07-28"
     }
 ]
