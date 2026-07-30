@@ -1,38 +1,20 @@
 [
     {
-        "match": "Mineiro vs Bragantino",
+        "match": "Vit\u00f3ria vs Palmeiras",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-29"
+        "date": "2026-07-30"
     },
     {
-        "match": "Chapecoense vs Vasco da Gama",
+        "match": "Fluminense vs Bahia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-29"
+        "date": "2026-07-30"
     },
     {
-        "match": "S\u00e3o Paulo vs Santos",
+        "match": "Corinthians vs Paranaense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-29"
-    },
-    {
-        "match": "Botafogo vs Gr\u00eamio",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-29"
-    },
-    {
-        "match": "Mirassol vs Clube do Remo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-29"
-    },
-    {
-        "match": "Internacional vs Flamengo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-29"
+        "date": "2026-07-30"
     }
 ]
