@@ -1,20 +1,8 @@
 [
     {
-        "match": "Vit\u00f3ria vs Palmeiras",
+        "match": "Coritiba vs Cruzeiro",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-07-30"
-    },
-    {
-        "match": "Fluminense vs Bahia",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-30"
-    },
-    {
-        "match": "Corinthians vs Paranaense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-07-30"
+        "date": "2026-07-31"
     }
 ]
