@@ -1,26 +1,14 @@
 [
     {
-        "match": "Tolima vs Independiente",
+        "match": "Cruzeiro vs Flamengo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-12"
+        "date": "2026-08-13"
     },
     {
-        "match": "Estudiantes LP vs Univ Cat\u00f3lica",
+        "match": "Mirassol vs LDU de Quito",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-12"
-    },
-    {
-        "match": "Palmeiras vs Cerro Porte\u00f1o",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-12"
-    },
-    {
-        "match": "Platense vs Coquimbo Unido",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-12"
+        "date": "2026-08-13"
     }
 ]
