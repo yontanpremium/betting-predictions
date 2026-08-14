@@ -1,14 +1,26 @@
 [
     {
-        "match": "Cruzeiro vs Flamengo",
+        "match": "Rosario vs Corinthians",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-13"
+        "date": "2026-08-14"
     },
     {
-        "match": "Mirassol vs LDU de Quito",
+        "match": "Telstar vs Sparta",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-13"
+        "date": "2026-08-14"
+    },
+    {
+        "match": "Wolverhampton vs Blackburn",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-14"
+    },
+    {
+        "match": "Sporting CP vs Vit\u00f3ria SC",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-14"
     }
 ]
