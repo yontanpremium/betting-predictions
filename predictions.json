@@ -1,62 +1,26 @@
 [
     {
-        "match": "S\u00e3o Paulo vs Coritiba",
+        "match": "Cardiff vs Wrexham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-16"
+        "date": "2026-08-17"
     },
     {
-        "match": "Den Haag vs Groningen",
+        "match": "Deportivo vs Elche",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-16"
+        "date": "2026-08-17"
     },
     {
-        "match": "Twente vs Zwolle",
+        "match": "Casa Pia vs SL Benfica",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-16"
+        "date": "2026-08-17"
     },
     {
-        "match": "Watford vs Southampton",
+        "match": "Internacional vs Clube do Remo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-16"
-    },
-    {
-        "match": "Feyenoord vs Go Ahead",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-16"
-    },
-    {
-        "match": "Chapecoense vs Bahia",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-16"
-    },
-    {
-        "match": "CD Nacional vs Estoril Praia",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-16"
-    },
-    {
-        "match": "Ajax vs Heerenveen",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-16"
-    },
-    {
-        "match": "Burnley vs West Ham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-16"
-    },
-    {
-        "match": "Santander vs Villarreal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-16"
+        "date": "2026-08-17"
     }
 ]
