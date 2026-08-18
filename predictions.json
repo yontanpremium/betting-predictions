@@ -1,26 +1,8 @@
 [
     {
-        "match": "Cardiff vs Wrexham",
+        "match": "Rivadavia vs Fluminense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-17"
-    },
-    {
-        "match": "Deportivo vs Elche",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-17"
-    },
-    {
-        "match": "Casa Pia vs SL Benfica",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-17"
-    },
-    {
-        "match": "Internacional vs Clube do Remo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-17"
+        "date": "2026-08-18"
     }
 ]
