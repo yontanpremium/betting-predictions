@@ -1,8 +1,26 @@
 [
     {
-        "match": "Rivadavia vs Fluminense",
+        "match": "Univ Cat\u00f3lica vs Estudiantes LP",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-18"
+        "date": "2026-08-19"
+    },
+    {
+        "match": "Atleti vs M\u00e1laga",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-19"
+    },
+    {
+        "match": "Cerro Porte\u00f1o vs Palmeiras",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-19"
+    },
+    {
+        "match": "Coquimbo Unido vs Platense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-19"
     }
 ]
