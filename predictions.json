@@ -1,26 +1,20 @@
 [
     {
-        "match": "Univ Cat\u00f3lica vs Estudiantes LP",
+        "match": "Flamengo vs Cruzeiro",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-19"
+        "date": "2026-08-20"
     },
     {
-        "match": "Atleti vs M\u00e1laga",
+        "match": "Rayo Vallecano vs Alav\u00e9s",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-19"
+        "date": "2026-08-20"
     },
     {
-        "match": "Cerro Porte\u00f1o vs Palmeiras",
+        "match": "LDU de Quito vs Mirassol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-19"
-    },
-    {
-        "match": "Coquimbo Unido vs Platense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-19"
+        "date": "2026-08-20"
     }
 ]
