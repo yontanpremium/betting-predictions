@@ -1,20 +1,32 @@
 [
     {
-        "match": "Flamengo vs Cruzeiro",
+        "match": "Corinthians vs Rosario",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-20"
+        "date": "2026-08-21"
     },
     {
-        "match": "Rayo Vallecano vs Alav\u00e9s",
+        "match": "Marseille vs Strasbourg",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-20"
+        "date": "2026-08-21"
     },
     {
-        "match": "LDU de Quito vs Mirassol",
+        "match": "Arsenal vs Coventry City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-20"
+        "date": "2026-08-21"
+    },
+    {
+        "match": "Real Betis vs Real Sociedad",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-21"
+    },
+    {
+        "match": "NEC vs Excelsior",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-21"
     }
 ]
