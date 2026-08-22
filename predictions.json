@@ -1,32 +1,62 @@
 [
     {
-        "match": "Corinthians vs Rosario",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-21"
-    },
-    {
-        "match": "Marseille vs Strasbourg",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-21"
-    },
-    {
-        "match": "Arsenal vs Coventry City",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-21"
-    },
-    {
-        "match": "Real Betis vs Real Sociedad",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-21"
-    },
-    {
         "match": "NEC vs Excelsior",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-21"
+        "date": "2026-08-22"
+    },
+    {
+        "match": "Hull City vs Man United",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
+    },
+    {
+        "match": "Lincoln City vs Portsmouth",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
+    },
+    {
+        "match": "Birmingham vs Bristol City",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
+    },
+    {
+        "match": "Millwall vs Norwich",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
+    },
+    {
+        "match": "Nottingham vs Leeds United",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
+    },
+    {
+        "match": "Wrexham vs Watford",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
+    },
+    {
+        "match": "Swansea vs Sheffield Utd",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
+    },
+    {
+        "match": "Derby County vs Cardiff",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
+    },
+    {
+        "match": "QPR vs Bolton",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-22"
     }
 ]
