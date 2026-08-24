@@ -1,62 +1,44 @@
 [
     {
-        "match": "Go Ahead vs Den Haag",
+        "match": "Bologna vs Lazio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
     },
     {
-        "match": "West Brom vs Burnley",
+        "match": "Osasuna vs Levante",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
     },
     {
-        "match": "PSV vs Groningen",
+        "match": "Roma vs Fiorentina",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
     },
     {
-        "match": "Angers SCO vs Lille",
+        "match": "Fulham vs Chelsea",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
     },
     {
-        "match": "Brighton Hove vs Aston Villa",
+        "match": "Gil Vicente vs Casa Pia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
     },
     {
-        "match": "Man City vs Bournemouth",
+        "match": "M\u00e1laga vs Deportivo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
     },
     {
-        "match": "Vit\u00f3ria SC vs CD Nacional",
+        "match": "Botafogo vs Paranaense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-23"
-    },
-    {
-        "match": "Cambuur vs Feyenoord",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-23"
-    },
-    {
-        "match": "Atleti vs Villarreal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-23"
-    },
-    {
-        "match": "Le Havre vs Monaco",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-23"
+        "date": "2026-08-24"
     }
 ]
