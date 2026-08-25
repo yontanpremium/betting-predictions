@@ -1,44 +1,8 @@
 [
     {
-        "match": "Bologna vs Lazio",
+        "match": "Valencia vs Real Betis",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-24"
-    },
-    {
-        "match": "Osasuna vs Levante",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-24"
-    },
-    {
-        "match": "Roma vs Fiorentina",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-24"
-    },
-    {
-        "match": "Fulham vs Chelsea",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-24"
-    },
-    {
-        "match": "Gil Vicente vs Casa Pia",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-24"
-    },
-    {
-        "match": "M\u00e1laga vs Deportivo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-24"
-    },
-    {
-        "match": "Botafogo vs Paranaense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-24"
+        "date": "2026-08-25"
     }
 ]
