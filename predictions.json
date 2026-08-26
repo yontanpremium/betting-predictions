@@ -1,8 +1,14 @@
 [
     {
-        "match": "Valencia vs Real Betis",
+        "match": "Independiente vs Tolima",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-25"
+        "date": "2026-08-26"
+    },
+    {
+        "match": "Real Madrid vs Real Sociedad",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-26"
     }
 ]
