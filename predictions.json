@@ -1,14 +1,56 @@
 [
     {
-        "match": "Celta vs Osasuna",
+        "match": "Santander vs Elche",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-27"
+        "date": "2026-08-28"
     },
     {
-        "match": "Bar\u00e7a vs Athletic",
+        "match": "Groningen vs Sittard",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-27"
+        "date": "2026-08-28"
+    },
+    {
+        "match": "Bayern vs Stuttgart",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-28"
+    },
+    {
+        "match": "Lille vs PSG",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-28"
+    },
+    {
+        "match": "Milan vs Venezia FC",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-28"
+    },
+    {
+        "match": "Crystal Palace vs Man City",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-28"
+    },
+    {
+        "match": "Wrexham vs Birmingham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-28"
+    },
+    {
+        "match": "Rio Ave vs Sporting CP",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-28"
+    },
+    {
+        "match": "Alav\u00e9s vs Villarreal",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-28"
     }
 ]
