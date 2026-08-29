@@ -1,56 +1,62 @@
 [
     {
-        "match": "Santander vs Elche",
+        "match": "Middlesbrough vs West Brom",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
     },
     {
-        "match": "Groningen vs Sittard",
+        "match": "Liverpool vs Nottingham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
     },
     {
-        "match": "Bayern vs Stuttgart",
+        "match": "Derby County vs Swansea",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
     },
     {
-        "match": "Lille vs PSG",
+        "match": "Wolverhampton vs Stoke",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
     },
     {
-        "match": "Milan vs Venezia FC",
+        "match": "Mainz vs SC Paderborn",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
     },
     {
-        "match": "Crystal Palace vs Man City",
+        "match": "Elversberg vs Leverkusen",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
     },
     {
-        "match": "Wrexham vs Birmingham",
+        "match": "1. FC K\u00f6ln vs Hoffenheim",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
     },
     {
-        "match": "Rio Ave vs Sporting CP",
+        "match": "Union Berlin vs Frankfurt",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
     },
     {
-        "match": "Alav\u00e9s vs Villarreal",
+        "match": "RB Leipzig vs M'gladbach",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-28"
+        "date": "2026-08-29"
+    },
+    {
+        "match": "Charlton vs Preston NE",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-08-29"
     }
 ]
