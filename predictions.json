@@ -1,62 +1,50 @@
 [
     {
-        "match": "Vasco da Gama vs Cruzeiro",
+        "match": "Lecce vs Roma",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
     },
     {
-        "match": "Utrecht vs PSV",
+        "match": "Osasuna vs Getafe",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
     },
     {
-        "match": "Willem II vs Heerenveen",
+        "match": "Atalanta vs Bologna",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
     },
     {
-        "match": "Feyenoord vs Den Haag",
+        "match": "Aston Villa vs Arsenal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
     },
     {
-        "match": "Chelsea vs Brighton Hove",
+        "match": "Braga vs Vit\u00f3ria SC",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
     },
     {
-        "match": "Paris FC vs Nice",
+        "match": "SL Benfica vs Estoril Praia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
     },
     {
-        "match": "Sunderland vs Fulham",
+        "match": "Bar\u00e7a vs Rayo Vallecano",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
     },
     {
-        "match": "Leeds United vs Brentford",
+        "match": "Clube do Remo vs Coritiba",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-08-30"
-    },
-    {
-        "match": "Freiburg vs Bremen",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-30"
-    },
-    {
-        "match": "Paranaense vs Fluminense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-08-30"
+        "date": "2026-08-31"
     }
 ]
