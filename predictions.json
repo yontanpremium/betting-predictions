@@ -1,50 +1,32 @@
 [
     {
-        "match": "West Ham vs Wolverhampton",
+        "match": "QPR vs Cardiff",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-01"
+        "date": "2026-09-02"
     },
     {
-        "match": "Sheffield Utd vs Bolton",
+        "match": "Millwall vs Wrexham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-01"
+        "date": "2026-09-02"
     },
     {
-        "match": "Preston NE vs Bristol City",
+        "match": "West Brom vs Charlton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-01"
+        "date": "2026-09-02"
     },
     {
-        "match": "Swansea vs Watford",
+        "match": "Burnley vs Middlesbrough",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-01"
+        "date": "2026-09-02"
     },
     {
-        "match": "Lincoln City vs Blackburn",
+        "match": "Flamengo vs Mirassol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-01"
-    },
-    {
-        "match": "Portsmouth vs Derby County",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-01"
-    },
-    {
-        "match": "Birmingham vs Southampton",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-01"
-    },
-    {
-        "match": "Stoke vs Norwich",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-01"
+        "date": "2026-09-02"
     }
 ]
