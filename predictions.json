@@ -1,32 +1,14 @@
 [
     {
-        "match": "QPR vs Cardiff",
+        "match": "Toulouse vs Lille",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-02"
+        "date": "2026-09-03"
     },
     {
-        "match": "Millwall vs Wrexham",
+        "match": "Real Sociedad vs Celta",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-02"
-    },
-    {
-        "match": "West Brom vs Charlton",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-02"
-    },
-    {
-        "match": "Burnley vs Middlesbrough",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-02"
-    },
-    {
-        "match": "Flamengo vs Mirassol",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-02"
+        "date": "2026-09-03"
     }
 ]
