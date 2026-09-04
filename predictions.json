@@ -1,14 +1,50 @@
 [
     {
-        "match": "Toulouse vs Lille",
+        "match": "Olympique Lyon vs Auxerre",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-03"
+        "date": "2026-09-04"
     },
     {
-        "match": "Real Sociedad vs Celta",
+        "match": "Sparta vs Zwolle",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-03"
+        "date": "2026-09-04"
+    },
+    {
+        "match": "Stuttgart vs 1. FC K\u00f6ln",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-04"
+    },
+    {
+        "match": "Genoa vs Como 1907",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-04"
+    },
+    {
+        "match": "Real Betis vs Real Madrid",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-04"
+    },
+    {
+        "match": "Ipswich Town vs Liverpool",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-04"
+    },
+    {
+        "match": "PSG vs Monaco",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-04"
+    },
+    {
+        "match": "Porto vs Moreirense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-04"
     }
 ]
