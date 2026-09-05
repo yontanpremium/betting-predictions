@@ -1,50 +1,62 @@
 [
     {
-        "match": "Olympique Lyon vs Auxerre",
+        "match": "Preston NE vs Blackburn",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
     },
     {
-        "match": "Sparta vs Zwolle",
+        "match": "Newcastle vs Bournemouth",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
     },
     {
-        "match": "Stuttgart vs 1. FC K\u00f6ln",
+        "match": "Lincoln City vs Southampton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
     },
     {
-        "match": "Genoa vs Como 1907",
+        "match": "Stoke vs Charlton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
     },
     {
-        "match": "Real Betis vs Real Madrid",
+        "match": "Fiorentina vs Torino",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
     },
     {
-        "match": "Ipswich Town vs Liverpool",
+        "match": "M'gladbach vs Elversberg",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
     },
     {
-        "match": "PSG vs Monaco",
+        "match": "Bremen vs RB Leipzig",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
     },
     {
-        "match": "Porto vs Moreirense",
+        "match": "Leverkusen vs Union Berlin",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-04"
+        "date": "2026-09-05"
+    },
+    {
+        "match": "SC Paderborn vs Freiburg",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-05"
+    },
+    {
+        "match": "Hoffenheim vs Dortmund",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-05"
     }
 ]
