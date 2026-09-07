@@ -1,62 +1,44 @@
 [
     {
-        "match": "Fluminense vs Vasco da Gama",
+        "match": "Cagliari vs Lecce",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
     },
     {
-        "match": "Groningen vs Twente",
+        "match": "Getafe vs Celta",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
     },
     {
-        "match": "Birmingham vs Wolverhampton",
+        "match": "Udinese vs Lazio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
     },
     {
-        "match": "Telstar vs Cambuur",
+        "match": "Estoril Praia vs Arouca",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
     },
     {
-        "match": "Heerenveen vs AZ",
+        "match": "Elche vs Real Sociedad",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
     },
     {
-        "match": "Everton vs Man United",
+        "match": "Vit\u00f3ria vs Gr\u00eamio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
     },
     {
-        "match": "Parma vs Monza",
+        "match": "None vs None",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-06"
-    },
-    {
-        "match": "Frosinone vs Venezia FC",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-06"
-    },
-    {
-        "match": "Troyes vs Strasbourg",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-06"
-    },
-    {
-        "match": "HSV vs Mainz",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-06"
+        "date": "2026-09-07"
     }
 ]
