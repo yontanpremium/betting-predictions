@@ -1,44 +1,62 @@
 [
     {
-        "match": "Cagliari vs Lecce",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-07"
-    },
-    {
-        "match": "Getafe vs Celta",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-07"
-    },
-    {
-        "match": "Udinese vs Lazio",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-07"
-    },
-    {
-        "match": "Estoril Praia vs Arouca",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-07"
-    },
-    {
-        "match": "Elche vs Real Sociedad",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-07"
-    },
-    {
-        "match": "Vit\u00f3ria vs Gr\u00eamio",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-07"
-    },
-    {
         "match": "None vs None",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-07"
+        "date": "2026-09-08"
+    },
+    {
+        "match": "Utrecht vs Go Ahead",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
+    },
+    {
+        "match": "Club Brugge vs Aston Villa",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
+    },
+    {
+        "match": "NEC vs Excelsior",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
+    },
+    {
+        "match": "PAE AEK vs LASK",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
+    },
+    {
+        "match": "Watford vs Preston NE",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
+    },
+    {
+        "match": "Blackburn vs Sheffield Utd",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
+    },
+    {
+        "match": "Southampton vs Swansea",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
+    },
+    {
+        "match": "Cardiff vs Stoke",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
+    },
+    {
+        "match": "Wrexham vs Burnley",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-08"
     }
 ]
