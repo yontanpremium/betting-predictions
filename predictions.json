@@ -1,62 +1,50 @@
 [
     {
-        "match": "Bar\u00e7a vs Feyenoord",
+        "match": "Estudiantes LP vs Corinthians",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-09"
+        "date": "2026-09-10"
     },
     {
-        "match": "Twente vs Telstar",
+        "match": "Fenerbah\u00e7e vs Roma",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-09"
+        "date": "2026-09-10"
     },
     {
-        "match": "Stuttgart vs Viking",
+        "match": "PSV vs Shaktar",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-09"
+        "date": "2026-09-10"
     },
     {
-        "match": "Norwich vs Birmingham",
+        "match": "Bayern vs Bod\u00f8/Glimt",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-09"
+        "date": "2026-09-10"
     },
     {
-        "match": "Derby County vs West Brom",
+        "match": "Como 1907 vs RB Leipzig",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-09"
+        "date": "2026-09-10"
     },
     {
-        "match": "Charlton vs QPR",
+        "match": "Man United vs Sabah FK",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-09"
+        "date": "2026-09-10"
     },
     {
-        "match": "Napoli vs Arsenal",
+        "match": "Slavia Praha vs RC Lens",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-09"
+        "date": "2026-09-10"
     },
     {
-        "match": "Liverpool vs Atleti",
+        "match": "Amadora vs Braga",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-09"
-    },
-    {
-        "match": "PSG vs Sl. Bratislava",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-09"
-    },
-    {
-        "match": "Sporting CP vs Galatasaray",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-09"
+        "date": "2026-09-10"
     }
 ]
