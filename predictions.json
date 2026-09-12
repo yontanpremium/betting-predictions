@@ -1,50 +1,62 @@
 [
     {
-        "match": "Independiente vs Flamengo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-11"
-    },
-    {
-        "match": "AZ vs Willem II",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-11"
-    },
-    {
-        "match": "Union Berlin vs Schalke",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-11"
-    },
-    {
-        "match": "Stade Rennais vs Marseille",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-11"
-    },
-    {
-        "match": "Venezia FC vs Fiorentina",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-11"
-    },
-    {
-        "match": "West Ham vs Wrexham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-11"
-    },
-    {
-        "match": "Sevilla FC vs Valencia",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-11"
-    },
-    {
         "match": "Coritiba vs Paranaense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-11"
+        "date": "2026-09-12"
+    },
+    {
+        "match": "West Brom vs QPR",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
+    },
+    {
+        "match": "Derby County vs Birmingham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
+    },
+    {
+        "match": "Bolton vs Cardiff",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
+    },
+    {
+        "match": "Santander vs Alav\u00e9s",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
+    },
+    {
+        "match": "Genoa vs Frosinone",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
+    },
+    {
+        "match": "Freiburg vs M'gladbach",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
+    },
+    {
+        "match": "Dortmund vs SC Paderborn",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
+    },
+    {
+        "match": "Mainz vs Frankfurt",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
+    },
+    {
+        "match": "Hoffenheim vs Stuttgart",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-12"
     }
 ]
