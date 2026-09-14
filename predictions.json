@@ -1,62 +1,56 @@
 [
     {
-        "match": "Santos vs Cruzeiro",
+        "match": "Torino vs Roma",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     },
     {
-        "match": "Excelsior vs Utrecht",
+        "match": "Como 1907 vs Parma",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     },
     {
-        "match": "Sheffield Utd vs Wolverhampton",
+        "match": "Rio Ave vs Amadora",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     },
     {
-        "match": "Celta vs M\u00e1laga",
+        "match": "Inter vs Udinese",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     },
     {
-        "match": "Heerenveen vs Telstar",
+        "match": "Villarreal vs Real Betis",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     },
     {
-        "match": "Coventry City vs Brighton Hove",
+        "match": "Leeds United vs Newcastle",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     },
     {
-        "match": "Lille vs Troyes",
+        "match": "Moreirense vs Mar\u00edtimo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     },
     {
-        "match": "Lecce vs Monza",
+        "match": "Braga vs Estoril Praia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     },
     {
-        "match": "RB Leipzig vs HSV",
+        "match": "Bahia vs Clube do Remo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-13"
-    },
-    {
-        "match": "Levante vs Bar\u00e7a",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-13"
+        "date": "2026-09-14"
     }
 ]
