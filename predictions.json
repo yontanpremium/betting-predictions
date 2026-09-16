@@ -1,44 +1,38 @@
 [
     {
-        "match": "Rayo Vallecano vs Espanyol",
+        "match": "Deportivo vs Sevilla FC",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
     },
     {
-        "match": "Ajax vs Willem II",
+        "match": "Atleti vs Osasuna",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
     },
     {
-        "match": "Alav\u00e9s vs Valencia",
+        "match": "Levante vs Athletic",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
     },
     {
-        "match": "Bristol City vs Lincoln City",
+        "match": "Bar\u00e7a vs Santander",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
     },
     {
-        "match": "Middlesbrough vs Millwall",
+        "match": "LDU de Quito vs Palmeiras",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
     },
     {
-        "match": "Elche vs Real Madrid",
+        "match": "Botafogo vs Gr\u00eamio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-15"
-    },
-    {
-        "match": "Platense vs Fluminense",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-15"
+        "date": "2026-09-16"
     }
 ]
