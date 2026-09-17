@@ -1,38 +1,20 @@
 [
     {
-        "match": "Deportivo vs Sevilla FC",
+        "match": "Corinthians vs Estudiantes LP",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-16"
+        "date": "2026-09-17"
     },
     {
-        "match": "Atleti vs Osasuna",
+        "match": "Real Betis vs Getafe",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-16"
+        "date": "2026-09-17"
     },
     {
-        "match": "Levante vs Athletic",
+        "match": "M\u00e1laga vs Villarreal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-16"
-    },
-    {
-        "match": "Bar\u00e7a vs Santander",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-16"
-    },
-    {
-        "match": "LDU de Quito vs Palmeiras",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-16"
-    },
-    {
-        "match": "Botafogo vs Gr\u00eamio",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-09-16"
+        "date": "2026-09-17"
     }
 ]
