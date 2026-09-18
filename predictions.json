@@ -1,20 +1,50 @@
 [
     {
-        "match": "Corinthians vs Estudiantes LP",
+        "match": "Flamengo vs Independiente",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-17"
+        "date": "2026-09-18"
     },
     {
-        "match": "Real Betis vs Getafe",
+        "match": "Groningen vs Zwolle",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-17"
+        "date": "2026-09-18"
     },
     {
-        "match": "M\u00e1laga vs Villarreal",
+        "match": "Bayern vs Union Berlin",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-17"
+        "date": "2026-09-18"
+    },
+    {
+        "match": "Monaco vs RC Lens",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-18"
+    },
+    {
+        "match": "Monza vs Sassuolo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-18"
+    },
+    {
+        "match": "Bristol City vs Watford",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-18"
+    },
+    {
+        "match": "Brentford vs Chelsea",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-18"
+    },
+    {
+        "match": "Espanyol vs Elche",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-18"
     }
 ]
