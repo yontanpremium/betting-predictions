@@ -1,50 +1,62 @@
 [
     {
-        "match": "Flamengo vs Independiente",
+        "match": "Millwall vs West Ham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-18"
+        "date": "2026-09-19"
     },
     {
-        "match": "Groningen vs Zwolle",
+        "match": "Stoke vs Sheffield Utd",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-18"
+        "date": "2026-09-19"
     },
     {
-        "match": "Bayern vs Union Berlin",
+        "match": "Cardiff vs Charlton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-18"
+        "date": "2026-09-19"
     },
     {
-        "match": "Monaco vs RC Lens",
+        "match": "Tottenham vs Aston Villa",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-18"
+        "date": "2026-09-19"
     },
     {
-        "match": "Monza vs Sassuolo",
+        "match": "Osasuna vs Rayo Vallecano",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-18"
+        "date": "2026-09-19"
     },
     {
-        "match": "Bristol City vs Watford",
+        "match": "Udinese vs Cagliari",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-18"
+        "date": "2026-09-19"
     },
     {
-        "match": "Brentford vs Chelsea",
+        "match": "Bologna vs Torino",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-18"
+        "date": "2026-09-19"
     },
     {
-        "match": "Espanyol vs Elche",
+        "match": "Bremen vs Augsburg",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-09-18"
+        "date": "2026-09-19"
+    },
+    {
+        "match": "HSV vs 1. FC K\u00f6ln",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-19"
+    },
+    {
+        "match": "Frankfurt vs Freiburg",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-09-19"
     }
 ]
