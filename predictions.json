@@ -1,8 +1,32 @@
 [
     {
-        "match": "No games today",
-        "prediction": "N/A",
-        "confidence": "0%",
-        "date": "N/A"
+        "match": "Internacional vs Corinthians",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-07"
+    },
+    {
+        "match": "Clube do Remo vs Gr\u00eamio",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-07"
+    },
+    {
+        "match": "Bragantino vs Mirassol",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-07"
+    },
+    {
+        "match": "Vit\u00f3ria vs Chapecoense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-07"
+    },
+    {
+        "match": "Botafogo vs Vasco da Gama",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-07"
     }
 ]
