@@ -1,20 +1,56 @@
 [
     {
-        "match": "Cruzeiro vs S\u00e3o Paulo",
+        "match": "Palmeiras vs Bahia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-08"
+        "date": "2026-10-09"
     },
     {
-        "match": "Santos vs Flamengo",
+        "match": "Fluminense vs Coritiba",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-08"
+        "date": "2026-10-09"
     },
     {
-        "match": "Paranaense vs Mineiro",
+        "match": "Moreirense vs Gil Vicente",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-08"
+        "date": "2026-10-09"
+    },
+    {
+        "match": "PSV vs Heerenveen",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-09"
+    },
+    {
+        "match": "Dortmund vs Bremen",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-09"
+    },
+    {
+        "match": "RC Lens vs Olympique Lyon",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-09"
+    },
+    {
+        "match": "M\u00e1laga vs Espanyol",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-09"
+    },
+    {
+        "match": "West Ham vs QPR",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-09"
+    },
+    {
+        "match": "Braga vs Sporting CP",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-09"
     }
 ]
