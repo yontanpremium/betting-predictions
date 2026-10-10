@@ -1,56 +1,62 @@
 [
     {
-        "match": "Palmeiras vs Bahia",
+        "match": "Charlton vs Bristol City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
     },
     {
-        "match": "Fluminense vs Coritiba",
+        "match": "West Brom vs Birmingham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
     },
     {
-        "match": "Moreirense vs Gil Vicente",
+        "match": "Swansea vs Norwich",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
     },
     {
-        "match": "PSV vs Heerenveen",
+        "match": "Arsenal vs Leeds United",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
     },
     {
-        "match": "Dortmund vs Bremen",
+        "match": "Rayo Vallecano vs Athletic",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
     },
     {
-        "match": "RC Lens vs Olympique Lyon",
+        "match": "Genoa vs Fiorentina",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
     },
     {
-        "match": "M\u00e1laga vs Espanyol",
+        "match": "Hoffenheim vs HSV",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
     },
     {
-        "match": "West Ham vs QPR",
+        "match": "Mainz vs Leverkusen",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
     },
     {
-        "match": "Braga vs Sporting CP",
+        "match": "Union Berlin vs Elversberg",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-09"
+        "date": "2026-10-10"
+    },
+    {
+        "match": "Augsburg vs Bayern",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-10"
     }
 ]
