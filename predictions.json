@@ -1,62 +1,8 @@
 [
     {
-        "match": "LASK vs Liverpool",
+        "match": "Fluminense vs Palmeiras",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "Feyenoord vs Como 1907",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "QPR vs Derby County",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "Portsmouth vs Sheffield Utd",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "Norwich vs Southampton",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "Bod\u00f8/Glimt vs Dortmund",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "Lincoln City vs West Ham",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "Real Betis vs Porto",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "Roma vs Real Madrid",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
-    },
-    {
-        "match": "Sl. Bratislava vs Stuttgart",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-14"
+        "date": "2026-10-15"
     }
 ]
