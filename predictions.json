@@ -1,8 +1,50 @@
 [
     {
-        "match": "Fluminense vs Palmeiras",
+        "match": "Estudiantes LP vs Flamengo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-15"
+        "date": "2026-10-16"
+    },
+    {
+        "match": "Heerenveen vs Excelsior",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-16"
+    },
+    {
+        "match": "Frankfurt vs 1. FC K\u00f6ln",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-16"
+    },
+    {
+        "match": "Le Mans vs Toulouse",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-16"
+    },
+    {
+        "match": "Frosinone vs Sassuolo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-16"
+    },
+    {
+        "match": "Deportivo vs Levante",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-16"
+    },
+    {
+        "match": "Burnley vs Wolverhampton",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-16"
+    },
+    {
+        "match": "Mirassol vs Internacional",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-16"
     }
 ]
