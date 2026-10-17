@@ -1,50 +1,62 @@
 [
     {
-        "match": "Estudiantes LP vs Flamengo",
+        "match": "Everton vs Chelsea",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
     },
     {
-        "match": "Heerenveen vs Excelsior",
+        "match": "Millwall vs Lincoln City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
     },
     {
-        "match": "Frankfurt vs 1. FC K\u00f6ln",
+        "match": "Watford vs Charlton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
     },
     {
-        "match": "Le Mans vs Toulouse",
+        "match": "Middlesbrough vs Cardiff",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
     },
     {
-        "match": "Frosinone vs Sassuolo",
+        "match": "Espanyol vs Atleti",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
     },
     {
-        "match": "Deportivo vs Levante",
+        "match": "Venezia FC vs Napoli",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
     },
     {
-        "match": "Burnley vs Wolverhampton",
+        "match": "Union Berlin vs Dortmund",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
     },
     {
-        "match": "Mirassol vs Internacional",
+        "match": "Bremen vs SC Paderborn",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-16"
+        "date": "2026-10-17"
+    },
+    {
+        "match": "Elversberg vs Augsburg",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-17"
+    },
+    {
+        "match": "Schalke vs Mainz",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-17"
     }
 ]
