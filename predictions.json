@@ -1,62 +1,38 @@
 [
     {
-        "match": "S\u00e3o Paulo vs Vasco da Gama",
+        "match": "Monza vs Cagliari",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
     },
     {
-        "match": "Zwolle vs Go Ahead",
+        "match": "Parma vs Torino",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
     },
     {
-        "match": "Udinese vs Lecce",
+        "match": "Tottenham vs Coventry City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
     },
     {
-        "match": "Osasuna vs Santander",
+        "match": "Getafe vs Rayo Vallecano",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
     },
     {
-        "match": "Cambuur vs AZ",
+        "match": "Braga vs Gil Vicente",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
     },
     {
-        "match": "Angers SCO vs Marseille",
+        "match": "Corinthians vs Vit\u00f3ria",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-18"
-    },
-    {
-        "match": "Brighton Hove vs Crystal Palace",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-18"
-    },
-    {
-        "match": "Leeds United vs Man United",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-18"
-    },
-    {
-        "match": "Fiorentina vs Como 1907",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-18"
-    },
-    {
-        "match": "Bournemouth vs Sunderland",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-18"
+        "date": "2026-10-19"
     }
 ]
