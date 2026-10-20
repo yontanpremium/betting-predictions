@@ -1,38 +1,62 @@
 [
     {
-        "match": "Monza vs Cagliari",
+        "match": "Sabah FK vs Dortmund",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
     },
     {
-        "match": "Parma vs Torino",
+        "match": "Fenerbah\u00e7e vs Slavia Praha",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
     },
     {
-        "match": "Tottenham vs Coventry City",
+        "match": "Wolverhampton vs Portsmouth",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
     },
     {
-        "match": "Getafe vs Rayo Vallecano",
+        "match": "PSG vs Bar\u00e7a",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
     },
     {
-        "match": "Braga vs Gil Vicente",
+        "match": "Liverpool vs Villarreal",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
     },
     {
-        "match": "Corinthians vs Vit\u00f3ria",
+        "match": "Porto vs PSV",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-19"
+        "date": "2026-10-20"
+    },
+    {
+        "match": "Man City vs PAE AEK",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-20"
+    },
+    {
+        "match": "Stuttgart vs Atleti",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-20"
+    },
+    {
+        "match": "Roma vs Sl. Bratislava",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-20"
+    },
+    {
+        "match": "Napoli vs Bod\u00f8/Glimt",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-20"
     }
 ]
