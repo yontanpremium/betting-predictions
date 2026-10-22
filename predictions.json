@@ -1,62 +1,8 @@
 [
     {
-        "match": "Lille vs Galatasaray",
+        "match": "Palmeiras vs Fluminense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Como 1907 vs Man United",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Levante vs Athletic",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Club Brugge vs RC Lens",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Sporting CP vs LASK",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Inter vs Shaktar",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Aston Villa vs Viking",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Real Madrid vs RB Leipzig",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Real Betis vs Feyenoord",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
-    },
-    {
-        "match": "Bayern vs Arsenal",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-21"
+        "date": "2026-10-22"
     }
 ]
