@@ -1,8 +1,62 @@
 [
     {
-        "match": "Palmeiras vs Fluminense",
+        "match": "Flamengo vs Estudiantes LP",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-22"
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Go Ahead vs Telstar",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Stuttgart vs M'gladbach",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Torino vs Monza",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Brest vs Nice",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Alav\u00e9s vs M\u00e1laga",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Bolton vs Middlesbrough",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Ipswich Town vs Nottingham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Vit\u00f3ria SC vs Mar\u00edtimo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
+    },
+    {
+        "match": "Cruzeiro vs Clube do Remo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-23"
     }
 ]
