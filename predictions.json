@@ -1,62 +1,32 @@
 [
     {
-        "match": "Santos vs Bahia",
+        "match": "Santa Clara vs SL Benfica",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
     },
     {
-        "match": "Sittard vs Excelsior",
+        "match": "PSG vs Olympique Lyon",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
     },
     {
-        "match": "Inter vs Fiorentina",
+        "match": "Sevilla FC vs Osasuna",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
     },
     {
-        "match": "Athletic vs Getafe",
+        "match": "Coritiba vs Gr\u00eamio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
     },
     {
-        "match": "NEC vs Groningen",
+        "match": "Flamengo vs Mineiro",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-25"
-    },
-    {
-        "match": "PSV vs Feyenoord",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-25"
-    },
-    {
-        "match": "Liverpool vs Brighton Hove",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-25"
-    },
-    {
-        "match": "Monaco vs Lille",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-25"
-    },
-    {
-        "match": "Atalanta vs Frosinone",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-25"
-    },
-    {
-        "match": "Man United vs Bournemouth",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-25"
+        "date": "2026-10-26"
     }
 ]
