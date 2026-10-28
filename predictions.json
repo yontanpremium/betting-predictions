@@ -1,20 +1,50 @@
 [
     {
-        "match": "Sassuolo vs Lazio",
+        "match": "Parma vs Udinese",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
     },
     {
-        "match": "Torino vs Como 1907",
+        "match": "Venezia FC vs Inter",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
     },
     {
-        "match": "Roma vs Cagliari",
+        "match": "Milan vs Bologna",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-27"
+        "date": "2026-10-28"
+    },
+    {
+        "match": "Genoa vs Juventus",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-28"
+    },
+    {
+        "match": "Monza vs Napoli",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-28"
+    },
+    {
+        "match": "Bragantino vs Chapecoense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-28"
+    },
+    {
+        "match": "Santos vs Palmeiras",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-28"
+    },
+    {
+        "match": "Fluminense vs Internacional",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-28"
     }
 ]
