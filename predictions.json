@@ -1,50 +1,38 @@
 [
     {
-        "match": "Parma vs Udinese",
+        "match": "Bahia vs S\u00e3o Paulo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
     },
     {
-        "match": "Venezia FC vs Inter",
+        "match": "Clube do Remo vs Botafogo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
     },
     {
-        "match": "Milan vs Bologna",
+        "match": "Frosinone vs Lecce",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
     },
     {
-        "match": "Genoa vs Juventus",
+        "match": "Fiorentina vs Atalanta",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
     },
     {
-        "match": "Monza vs Napoli",
+        "match": "Mineiro vs Cruzeiro",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
     },
     {
-        "match": "Bragantino vs Chapecoense",
+        "match": "Vasco da Gama vs Flamengo",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-28"
-    },
-    {
-        "match": "Santos vs Palmeiras",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-28"
-    },
-    {
-        "match": "Fluminense vs Internacional",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-10-28"
+        "date": "2026-10-29"
     }
 ]
