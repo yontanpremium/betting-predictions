@@ -1,38 +1,56 @@
 [
     {
-        "match": "Bahia vs S\u00e3o Paulo",
+        "match": "Gr\u00eamio vs Paranaense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
     },
     {
-        "match": "Clube do Remo vs Botafogo",
+        "match": "Le Havre vs PSG",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
     },
     {
-        "match": "Frosinone vs Lecce",
+        "match": "Nice vs Stade Rennais",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
     },
     {
-        "match": "Fiorentina vs Atalanta",
+        "match": "Elversberg vs Mainz",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
     },
     {
-        "match": "Mineiro vs Cruzeiro",
+        "match": "Sheffield Utd vs Wrexham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
     },
     {
-        "match": "Vasco da Gama vs Flamengo",
+        "match": "Villarreal vs Espanyol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-29"
+        "date": "2026-10-30"
+    },
+    {
+        "match": "Lille vs RC Lens",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-30"
+    },
+    {
+        "match": "Casa Pia vs Sporting CP",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-30"
+    },
+    {
+        "match": "Corinthians vs Mirassol",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-30"
     }
 ]
