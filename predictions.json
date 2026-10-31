@@ -1,56 +1,62 @@
 [
     {
-        "match": "Gr\u00eamio vs Paranaense",
+        "match": "Norwich vs Watford",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
     },
     {
-        "match": "Le Havre vs PSG",
+        "match": "Chelsea vs Man United",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
     },
     {
-        "match": "Nice vs Stade Rennais",
+        "match": "Stoke vs Preston NE",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
     },
     {
-        "match": "Elversberg vs Mainz",
+        "match": "Lincoln City vs Birmingham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
     },
     {
-        "match": "Sheffield Utd vs Wrexham",
+        "match": "Levante vs Atleti",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
     },
     {
-        "match": "Villarreal vs Espanyol",
+        "match": "Bologna vs Monza",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
     },
     {
-        "match": "Lille vs RC Lens",
+        "match": "Augsburg vs Freiburg",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
     },
     {
-        "match": "Casa Pia vs Sporting CP",
+        "match": "M'gladbach vs SC Paderborn",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
     },
     {
-        "match": "Corinthians vs Mirassol",
+        "match": "Bremen vs Hoffenheim",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-10-30"
+        "date": "2026-10-31"
+    },
+    {
+        "match": "Leverkusen vs Stuttgart",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-10-31"
     }
 ]
