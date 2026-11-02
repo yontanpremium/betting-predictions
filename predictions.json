@@ -1,62 +1,50 @@
 [
     {
-        "match": "Zwolle vs Den Haag",
+        "match": "Sassuolo vs Fiorentina",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
     },
     {
-        "match": "Como 1907 vs Venezia FC",
+        "match": "Lorient vs Brest",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
     },
     {
-        "match": "Getafe vs Sevilla FC",
+        "match": "Atalanta vs Parma",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
     },
     {
-        "match": "Excelsior vs Twente",
+        "match": "Newcastle vs Everton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
     },
     {
-        "match": "Telstar vs Utrecht",
+        "match": "Deportivo vs Osasuna",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
     },
     {
-        "match": "Frosinone vs Torino",
+        "match": "Gil Vicente vs Vit\u00f3ria SC",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
     },
     {
-        "match": "Lazio vs Cagliari",
+        "match": "SL Benfica vs Alverca",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
     },
     {
-        "match": "Strasbourg vs Auxerre",
+        "match": "Bragantino vs Santos",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-01"
-    },
-    {
-        "match": "Union Berlin vs 1. FC K\u00f6ln",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-11-01"
-    },
-    {
-        "match": "Santander vs Real Madrid",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-11-01"
+        "date": "2026-11-02"
     }
 ]
