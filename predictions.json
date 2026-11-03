@@ -1,50 +1,62 @@
 [
     {
-        "match": "Sassuolo vs Fiorentina",
+        "match": "Shaktar vs Sporting CP",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
     },
     {
-        "match": "Lorient vs Brest",
+        "match": "Galatasaray vs Stuttgart",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
     },
     {
-        "match": "Atalanta vs Parma",
+        "match": "Preston NE vs Sheffield Utd",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
     },
     {
-        "match": "Newcastle vs Everton",
+        "match": "Charlton vs Bolton",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
     },
     {
-        "match": "Deportivo vs Osasuna",
+        "match": "Derby County vs Norwich",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
     },
     {
-        "match": "Gil Vicente vs Vit\u00f3ria SC",
+        "match": "Portsmouth vs Swansea",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
     },
     {
-        "match": "SL Benfica vs Alverca",
+        "match": "Watford vs Lincoln City",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
     },
     {
-        "match": "Bragantino vs Santos",
+        "match": "QPR vs Burnley",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-02"
+        "date": "2026-11-03"
+    },
+    {
+        "match": "Blackburn vs Stoke",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-03"
+    },
+    {
+        "match": "Man United vs Roma",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-03"
     }
 ]
