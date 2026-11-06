@@ -1,20 +1,62 @@
 [
     {
-        "match": "S\u00e3o Paulo vs Corinthians",
+        "match": "Cruzeiro vs Bahia",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-05"
+        "date": "2026-11-06"
     },
     {
-        "match": "Botafogo vs Mineiro",
+        "match": "Willem II vs Zwolle",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-05"
+        "date": "2026-11-06"
     },
     {
-        "match": "Palmeiras vs Clube do Remo",
+        "match": "HSV vs M'gladbach",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-05"
+        "date": "2026-11-06"
+    },
+    {
+        "match": "Toulouse vs Strasbourg",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-06"
+    },
+    {
+        "match": "Venezia FC vs Udinese",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-06"
+    },
+    {
+        "match": "Everton vs Coventry City",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-06"
+    },
+    {
+        "match": "Sevilla FC vs Alav\u00e9s",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-06"
+    },
+    {
+        "match": "Derby County vs Bolton",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-06"
+    },
+    {
+        "match": "Famalic\u00e3o vs Arouca",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-06"
+    },
+    {
+        "match": "Vit\u00f3ria vs Fluminense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-06"
     }
 ]
