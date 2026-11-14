@@ -1,8 +1,14 @@
 [
     {
-        "match": "No games today",
-        "prediction": "N/A",
-        "confidence": "0%",
-        "date": "N/A"
+        "match": "Mirassol vs Mineiro",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-14"
+    },
+    {
+        "match": "Chapecoense vs Vasco da Gama",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-14"
     }
 ]
