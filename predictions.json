@@ -1,8 +1,26 @@
 [
     {
-        "match": "No games today",
-        "prediction": "N/A",
-        "confidence": "0%",
-        "date": "N/A"
+        "match": "Coritiba vs Santos",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-18"
+    },
+    {
+        "match": "Clube do Remo vs Chapecoense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-18"
+    },
+    {
+        "match": "Flamengo vs Paranaense",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-18"
+    },
+    {
+        "match": "Cruzeiro vs Palmeiras",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-18"
     }
 ]
