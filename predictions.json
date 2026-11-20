@@ -1,26 +1,26 @@
 [
     {
-        "match": "Gr\u00eamio vs Bahia",
+        "match": "S\u00e3o Paulo vs Fluminense",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-19"
+        "date": "2026-11-20"
     },
     {
-        "match": "Corinthians vs Botafogo",
+        "match": "Bayern vs 1. FC K\u00f6ln",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-19"
+        "date": "2026-11-20"
     },
     {
-        "match": "Vit\u00f3ria vs Bragantino",
+        "match": "Troyes vs Le Havre",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-19"
+        "date": "2026-11-20"
     },
     {
-        "match": "Vasco da Gama vs Internacional",
+        "match": "Athletic vs Espanyol",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-19"
+        "date": "2026-11-20"
     }
 ]
