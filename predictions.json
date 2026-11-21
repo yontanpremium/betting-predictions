@@ -1,26 +1,62 @@
 [
     {
-        "match": "S\u00e3o Paulo vs Fluminense",
+        "match": "Millwall vs QPR",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-20"
+        "date": "2026-11-21"
     },
     {
-        "match": "Bayern vs 1. FC K\u00f6ln",
+        "match": "Norwich vs Cardiff",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-20"
+        "date": "2026-11-21"
     },
     {
-        "match": "Troyes vs Le Havre",
+        "match": "Southampton vs Derby County",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-20"
+        "date": "2026-11-21"
     },
     {
-        "match": "Athletic vs Espanyol",
+        "match": "Man City vs Fulham",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-20"
+        "date": "2026-11-21"
+    },
+    {
+        "match": "Alav\u00e9s vs Deportivo",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-21"
+    },
+    {
+        "match": "Lazio vs Lecce",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-21"
+    },
+    {
+        "match": "Como 1907 vs Cagliari",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-21"
+    },
+    {
+        "match": "Elversberg vs Freiburg",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-21"
+    },
+    {
+        "match": "M'gladbach vs Dortmund",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-21"
+    },
+    {
+        "match": "Leverkusen vs SC Paderborn",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-21"
     }
 ]
