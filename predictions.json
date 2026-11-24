@@ -1,38 +1,62 @@
 [
     {
-        "match": "Monza vs Fiorentina",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-11-23"
-    },
-    {
-        "match": "Brentford vs Everton",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-11-23"
-    },
-    {
-        "match": "Levante vs Elche",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-11-23"
-    },
-    {
-        "match": "Internacional vs Vit\u00f3ria",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-11-23"
-    },
-    {
-        "match": "Botafogo vs S\u00e3o Paulo",
-        "prediction": "Over 1.5 Goals",
-        "confidence": "91%",
-        "date": "2026-11-23"
-    },
-    {
         "match": "Santos vs Gr\u00eamio",
         "prediction": "Over 1.5 Goals",
         "confidence": "91%",
-        "date": "2026-11-23"
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Bod\u00f8/Glimt vs LASK",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Galatasaray vs Aston Villa",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Cardiff vs Preston NE",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Bristol City vs Wrexham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Portsmouth vs West Ham",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Sheffield Utd vs Southampton",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Charlton vs Lincoln City",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Middlesbrough vs Swansea",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
+    },
+    {
+        "match": "Norwich vs QPR",
+        "prediction": "Over 1.5 Goals",
+        "confidence": "91%",
+        "date": "2026-11-24"
     }
 ]
